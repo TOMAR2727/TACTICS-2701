@@ -1,0 +1,2624 @@
+﻿[Event "I c London (m)"]
+[White "Cochrane, John"]
+[Black "Staunton, Howard"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "6k1/6pp/p2bN3/3p2n1/2r4q/P2QP2P/1B3PP1/5RK1 b - - 0 1"]
+
+1... Nxh3+ $1 2. gxh3 Rg4+ $1 (2... Rg4+ 3. hxg4 Qh2# {#} )0-1
+
+[Event "I c Paris (m)"]
+[White "De Riviere, Jules->Arnous de Ri"]
+[Black "Morphy, Paul"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1bq1rk1/ppp3p1/7p/3P2n1/2PQ1p2/1N5P/PPP2PPK/R1B2R2 b - - 0 1"]
+
+1... Nf3+ $1 2. gxf3 Qh4 3. Rh1 (3. Nd2 Bxh3 (3... Qxh3+ $5 4. Kg1 Rf5 $19 )4. Ne4 Bg4+ 5. Kg2 Qh3+ 6. Kg1 Bxf3 $19 )Bxh3 4. Bd2 Rf6 0-1
+
+[Event "I c New York"]
+[White "Richardson, Charlotte"]
+[Black "Delmar, E."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "rnb3kr/pp3ppp/1b6/3q4/3pN3/Q4N2/PPP2KPP/R1B1R3 w - - 0 1"]
+
+1. Nf6+ $3 gxf6 2. Qf8+ $1 Kxf8 3. Bh6+ Kg8 4. Re8# {#} 1-0
+
+[Event "I c Moscow"]
+[White "Torre Repetto, Carlos"]
+[Black "Saemisch, Fritz"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2rn1r2/pbq1bpk1/1p1pp2p/3n2pQ/2NP3N/2PB2B1/PP3PPP/R3R1K1 w - - 0 1"]
+
+1. Rxe6 $1 Nxe6 (1... fxe6 2. Qg6+ Kh8 3. Qh7# {#} )2. Nf5+ Kg8 (2... Kf6 3. Qxh6# {#} )3. Nxh6+ 1-0
+
+[Event "I c Kosice"]
+[White "Opocensky, Karel"]
+[Black "Hromadka, Karel"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "4r3/5r1p/R1p2pp1/1p1bk3/4pNPP/2P1K3/2P2P2/3R4 w - - 0 1"]
+
+1. Rxd5+ $1 cxd5 2. Nd3+ $1 exd3 3. f4# {#} 1-0
+
+[Event "I c corr"]
+[White "Von Feilitzsch, M."]
+[Black "Wildegans, L."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3k3r/1b1p2bp/1p4p1/4pp2/4n2q/1B3n1P/PPPP1PP1/R1BQ1RNK b - - 0 1"]
+
+1... Qxf2 $1 2. Ne2 (2. Rxf2 Nxf2# {#} )(2. Qxf3 Ng3+ $19 )Qg1+ $1 3. Rxg1 (3. Nxg1 Ng3# {#} )Nf2# {#} 0-1
+
+[Event "I c Rio de Janeiro"]
+[White "Gomes"]
+[Black "Netto"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3k1r1/1pp2ppp/pb1p1qn1/4p2b/2B1P3/N1PP1NPP/PP2QPK1/R4R2 b q - 0 1"]
+
+1... Nh4+ $1 2. gxh4 g5 $1 3. Rg1 Bxf3+ 4. Qxf3 gxh4+ 0-1
+
+[Event "I c Groningen"]
+[White "Bernstein, Ossip"]
+[Black "Kotov, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "R6R/1r3pp1/4p1kp/3pP3/1r2qPP1/7P/1P1Q3K/8 w - - 0 1"]
+
+1. f5+ $1 (1. f5+ exf5 2. Qxh6+ $1 gxh6 3. Rag8# {#} )1-0
+
+[Event "I c Mannheim"]
+[White "Schuppler"]
+[Black "Heinicke, Herbert"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2kr3r/pRp3q1/2Pppn2/4p2p/B2bP1p1/7P/2P2PP1/2BQ1RK1 w - - 0 1"]
+
+1. Bh6 $1 Rxh6 (1... Qxh6 2. Qd3 $1 Nd7 3. Qa6 Nc5 4. Qxa7 $18 )2. Qxd4 $1 exd4 3. Rfb1 1-0
+
+[Event "III c Albania (ch)"]
+[White "Veijai"]
+[Black "Hodja"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r4r1k/p5pp/1p4Q1/2p1Bp2/2P2Pn1/7R/PP3qPP/R6K b - - 0 1"]
+
+1... Qe1+ $3 (1... Qe1+ 2. Rxe1 Nf2+ 3. Kg1 Nxh3+ 4. gxh3 hxg6 )0-1
+
+[Event "I c corr"]
+[White "Maister"]
+[Black "Grozdov"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2k4r/pp3ppp/2p2n2/5PBb/P3P3/2Nr3P/1PB2bP1/R3R2K b - - 0 1"]
+
+1... Rxh3+ $1 2. gxh3 Bf3+ 3. Kh2 Ng4+ $1 4. hxg4 h5 $1 0-1
+
+[Event "I c BRD"]
+[White "Dahl, H."]
+[Black "Schulz, Wolfgang2"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r4rk1/3qbppp/p1p5/1p2P3/6b1/1BP1B1Q1/PP3P1P/R4RK1 w - - 0 1"]
+
+1. e6 $1 Bxe6 2. Bd4 f6 3. Qg4 $3 (3. Qg4 Kf7 4. Rfe1 $18 )1-0
+
+[Event "I c Berlin"]
+[White "Bauer, Wolfgang"]
+[Black "Gollner, H."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r3n3/pp2q1pk/2p1BnRp/8/2p2P2/1P5P/PB4QK/8 w - - 0 1"]
+
+1. Rxh6+ $1 gxh6 (1... Kxh6 2. Qg5+ Kh7 3. Qh4+ Kg6 4. f5# {#} )2. Qg8+ $1 Nxg8 3. Bf5# {#} 1-0
+
+[Event "I c BRD"]
+[White "Heemsoth, Hermann"]
+[Black "Heisenbutter"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2r2r1k/4ppRp/p4n1P/6R1/2q1p3/8/PpN5/1K4Q1 w - - 0 1"]
+
+1. Rc5 $3 (1. Rc5 Qxc5 2. Rxh7+ $1 Nxh7 3. Qg7# {#} )*
+
+[Event "I c Mar del Plata"]
+[White "De Souza Mendes, Joao"]
+[Black "Fischer, Robert James"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1r5k/7p/3p4/p2PpB2/1p2Pb2/1K1b3N/PP3R1P/8 b - - 0 1"]
+
+1... a4+ $1 2. Kxa4 b3 $1 3. axb3 Be3 4. Rf3 (4. Rg2 Bc5 $19 )Ra8+ (4... Ra8+ 5. Kb4 Bd2# {#} )0-1
+
+[Event "I c USA"]
+[White "Krafford"]
+[Black "Traker"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "5k1r/p1rq4/2n2pB1/2b3p1/6p1/2N3Q1/PPP2PP1/3R1RK1 b - - 0 1"]
+
+1... Qh7 $1 0-1
+
+[Event "I c corr"]
+[White "Urusov, Salis"]
+[Black "Kalinsky, N."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "5rk1/7p/b2pNp2/3P1N2/1p2P3/6KP/P2Q1P2/2B1nq2 w - - 0 1"]
+
+1. Qg5+ $3 fxg5 2. Nh6+ (2. Nh6+ Kh8 3. Bb2+ $18 )1-0
+
+[Event "I c DDR (ch)*"]
+[White "Fuchs, Reinhart"]
+[Black "Uhlmann, Wolfgang"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5r1k/pp2r1pp/4p3/1b2Pn2/1P1q4/2Np1P2/1P1Q2PP/1B2R1RK b - - 0 1"]
+
+1... Ng3+ $1 2. hxg3 Rf5 3. g4 Rh5+ $1 4. gxh5 Qh4# {#} *
+
+[Event "I c Luzern"]
+[White "Darga, Klaus"]
+[Black "Dueckstein, Andreas"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "3r1r1k/p5pp/1pQ5/2nB1pP1/3n1B2/6P1/Pq2PPK1/4RR2 w - - 0 1"]
+
+1. Qg6 $1 (1. Qg6 Rxd5 2. Rh1 Kg8 3. Rxh7 Rf7 4. Rxg7+ $1 Rxg7 5. Qe8+ Kh7 6. Rh1# {#} )1-0
+
+[Event "I c Amsterdam (izt)"]
+[White "Portisch, Lajos"]
+[Black "Smyslov, Vassily"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "3k4/3n2N1/p2P3p/2p1n1p1/2P3P1/P4p1P/5q2/1Q3B1K b - - 0 1"]
+
+1... Nxg4 $1 2. hxg4 Qh4+ 3. Kg1 Qg3+ 4. Kh1 f2 $1 0-1
+
+[Event "I c USSR"]
+[White "Golovko, Nikolay Grigorievic"]
+[Black "Goldin, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "3nr1k1/p6p/2n1pRpB/3pP3/2pP2P1/q1P4P/6BK/5Q2 w - - 0 1"]
+
+1. Rxg6+ $1 hxg6 2. Qf6 Re7 (2... Qe7 3. Qxg6+ Kh8 4. Bg5 $1 $18 )3. Qf8+ Kh7 4. Bg5 $1 1-0
+
+[Event "I c USSR"]
+[White "Kirpichnikov, Vladimir S"]
+[Black "Veksler, Aleksander L"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r4rk1/3q1ppp/p1n5/1pppP2N/5Qb1/1P3N2/1PP2PPP/4RRK1 w - - 0 1"]
+
+1. e6 $1 Bxe6 2. Ne5 $1 (2. Ne5 Qb7 (2... Nxe5 3. Qxe5 $18 )3. Nxc6 Qxc6 4. Qe5 $18 )1-0
+
+[Event "I c corr"]
+[White "Vine"]
+[Black "Buse, Detlef"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r6r/pkp2P2/1pp4p/8/5Ppn/2PNR3/P1P2P1P/3R2K1 w - - 0 1"]
+
+1. Nc5+ $1 bxc5 2. Rb1+ Ka6 (2... Kc8 3. Re8+ Kd7 4. Rd1# {#} )3. c4 $1 1-0
+
+[Event "I c Oesterreich"]
+[White "Dietrich"]
+[Black "Bauer"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "5rk1/pp4p1/8/3N3p/2P4P/1P4K1/P2r1n2/R3R3 b - - 0 1"]
+
+1... Nh1+ $1 2. Rxh1 (2. Kh3 Rf3# {#} )Rdf2 $1 0-1
+
+[Event "I c Polska 10c/11"]
+[White "Kaiszauri, Konstanty"]
+[Black "Sznapik, Aleksander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Maric,R"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r4r1k/1b3ppp/p4b2/1pq1pP1Q/4p2N/1B3R2/PPP4P/4R2K w - - 0 1"]
+
+1. Ng6+ $1 fxg6 (1... Kg8 2. Qxh7+ $3 Kxh7 3. Rh3+ $18 )2. Qxh7+ $1 Kxh7 3. Rh3+ 1-0
+
+[Event "I c Kaluga 10c/16"]
+[White "Goltsov, L."]
+[Black "Moiseev, Viktor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Yudovich sr,M"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "4Q3/5ppk/4p2p/p2pP3/1p1P2P1/nP2RN2/q1r2PKP/8 w - - 0 1"]
+
+1. Ng5+ $1 hxg5 (1... Kg6 2. Qxf7+ Kxg5 3. Kg3 $1 $18 )2. Rh3+ Kg6 3. Rh6+ $3 1-0
+
+[Event "I c Skopje (ol) 14/509"]
+[White "Rantanen, Yrjo A"]
+[Black "Denman, Brian"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Rantanen,Y"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2r1k2r/4Ppp1/pq1p4/1p2pP1p/3N4/2N2B2/PPP3PP/2KRR3 w k - 0 1"]
+
+1. f6 $1 g6 (1... exd4 2. fxg7 Rg8 3. Nd5 $18 )(1... Rxc3 2. fxg7 Rg8 3. Nf5 $18 )2. Rxe5 $1 dxe5 (2... b4 3. Na4 Qa7 4. Rc5 $1 Kd7 (4... Rxc5 5. Nxc5 Qxc5 6. Bc6+ )5. Bc6+ Kc7 6. Rc4 Kb8 (6... h4 7. Bf3+ )7. Rxb4+ Kc7 8. Nc3 $18 )(2... Kd7 3. Ne4 $1 dxe5 (3... Kc7 4. Rd5 )4. Nxb5+ Ke6 5. Rd6+ $18 )3. Bc6+ 1-0
+
+[Event "I c corr 14c/1"]
+[White "Martin, H."]
+[Black "Bader, Harry"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Maric,R"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3b1k2/1b1r1P1p/2pp2p1/1p2p1q1/r3P1N1/PQ4NP/1P4P1/R4R1K w - - 0 1"]
+
+1. Nh5 $3 {[/\ Nhf6+-]} gxh5 (1... Qxh5 2. Qe6 Re7 3. Qf6 $18 )2. Qe6 Re7 (2... Qe7 3. Qh6# {#} )(2... Be7 3. Nf6 $18 )3. Nf6 $3 (3. Nf6 Rxe6 4. Nxh7+ Kg7 5. f8=Q+ Kxh7 6. Rf7+ $18 )1-0
+
+[Event "III c Oslo"]
+[White "Egord, L."]
+[Black "Lundin, Erik"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r5r1/p1pbq2k/1bp1n2p/2NpPp2/5P2/1N2B3/PPP2Q1P/R4R1K b - - 0 1"]
+
+1... d4 $1 2. Bxd4 Nxd4 3. Qxd4 Be6 $1 0-1
+
+[Event "I c USSR - Jugoslavija 16/303"]
+[White "Vasiukov, Evgeni"]
+[Black "Velimirovic, Dragoljub"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Vasiukov,E"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b3k1/p1q1r2p/2p2b2/2p1ppNQ/8/3PB3/PPP4P/4RRK1 w - - 0 1"]
+
+1. Nxh7 $1 Rg7+ (1... Rxh7 2. Qe8+ Kg7 3. Re2 $3 Rh4 (3... Qf7 4. Rg2+ )4. Rg2+ Rg4 5. Rxg4+ fxg4 6. Bh6+ $1 Kxh6 7. Rxf6+ $18 )2. Kf2 Qf7 (2... Bd8 3. Rg1 Rg4 (3... Rb8 4. Rxg7+ )(3... f4 4. Bxf4 $1 )4. h3 $1 $18 )3. Nxf6+ Qxf6 4. Rg1 (4. Rg1 f4 5. Rxg7+ Qxg7 6. Qe8+ Kh7 7. Bxf4 $18 )1-0
+
+[Event "I c Malaga 16/398"]
+[White "Torre, Eugenio"]
+[Black "O'Kelly, A."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Minic,D"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "5r1r/pp1n1ppk/3p1b1p/3NpP1Q/q3P3/2P1B3/PP3P1P/R3K1R1 w Q - 0 1"]
+
+1. Kd2 $1 (1. f3 Qc2 2. Qg4 (2. Bc1 Kg8 3. Qg4 Rh7 )Rhg8 3. Rg2 Bh4+ 4. Kf1 Qd3+ 5. Re2 Bd8 )Rhg8 (1... Qxe4 $2 2. Nxf6+ Nxf6 3. Rxg7+ $1 Kxg7 4. Rg1+ $18 )2. Rg6 $1 (2. Rg6 fxg6 (2... Rc8 3. Rxh6+ $1 )3. fxg6+ Kh8 4. Bxh6 $18 )(2. Rxg7+ $5 Bxg7 3. Rg1 Rc8 (3... f6 4. Rg6 )4. f6 $18 )1-0
+
+[Event "I c Decin 18/3"]
+[White "Plachetka, Jan"]
+[Black "Zinn, Lothar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Plachetka,J"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r1b2rk1/p1qn1p1p/2pbp1p1/2ppN3/5P2/1P2P2R/PBPP2PP/RN1Q2K1 w - - 0 1"]
+
+1. Qh5 $3 (1. Qh5 Nf6 (1... gxh5 2. Rg3+ Kh8 3. Nxf7# {#} )2. Ng4 $1 (2. Qh6 d4 $1 3. Ng4 $140 $6 Nh5 4. Rxh5 f5 $1 $13 )gxh5 (2... Nxh5 3. Nh6# {#} )3. Nxf6+ Kh8 (3... Kg7 4. Ne8+ $1 Kh6 5. Bg7+ Kg6 6. Rg3+ Kf5 7. Rg5+ Ke4 8. Nc3# {#} )4. Rxh5 h6 5. Nxd5+ $18 )1-0
+
+[Event "I c USSR"]
+[White "Lukovnikov, Alexander"]
+[Black "Sergeev, Vladislav"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "3rr2k/1ppbq1p1/p1nb3p/3Bpp2/P3P3/2P1BN1P/1P1RQ1P1/3R2K1 w - - 0 1"]
+
+1. Bg5 $1 hxg5 2. Nxe5 $1 1-0
+
+[Event "I c Halle 18/450*"]
+[White "Ciocaltea, Victor"]
+[Black "Tal, Mihail"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tal,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "4r1k1/p4ppp/1p1Bb3/3NP3/7Q/7P/q1P3PK/8 w - - 0 1"]
+
+1. Nf6+ $3 gxf6 2. Qg3+ Kh8 3. Be7 $3 (3. exf6 $2 Rg8 )Rxe7 4. exf6 $18 *
+
+[Event "I c USSR 18c/45"]
+[White "Kabadzhian"]
+[Black "Cihelashvili"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gufeld,E"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "3rr1k1/pp3pp1/1qn2np1/8/3p4/PP1R1P2/2P1NQPP/R1B3K1 b - - 0 1"]
+
+1... Ne5 $1 2. Rxd4 (2. Rd1 Neg4 3. fxg4 Nxg4 4. Qf4 d3+ $19 )Neg4 $1 3. fxg4 Nxg4 4. Qf4 Rxd4 (4... Rxd4 5. Qxd4 Qxd4+ 6. Nxd4 Re1# {#} )0-1
+
+[Event "III c USSR"]
+[White "Tal, Mihail"]
+[Black "Kolenc, Antony B"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1k2b3/4bpp1/p2pp1P1/1p3P2/2q1P3/4B3/PPPQN2r/1K1R4 w - - 0 1"]
+
+1. f6 $1 Rxe2 (1... gxf6 2. g7 Rg2 3. Bg5 $1 Rxg5 4. Qxg5 Qxe2 5. Qg1 $18 )2. fxg7 Rxd2 3. Bxd2 Qe2 4. Kc1 1-0
+
+[Event "I c Skopje 21/150"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Ivanovic, Bozidar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "4r3/b4pk1/p3p3/Pp1pPnpp/1Pr4q/2P2B2/3BRPPP/2R1Q2K b - - 0 1"]
+
+1... Qxh2+ $1 2. Kxh2 Rh4+ 3. Kg1 Ng3 $1 0-1
+
+[Event "I c USSR"]
+[White "Kuzmin, Gennadi P"]
+[Black "Kochyev, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "6k1/p4pbp/Bp2p1p1/n2P4/q3P3/B1rQP2P/P5P1/5RK1 w - - 0 1"]
+
+1. dxe6 $3 Rxd3 (1... Qxa3 2. Qd7 $1 fxe6 $8 3. Qxe6+ Kh8 4. Qe8+ Bf8 5. Rxf8+ Kg7 6. Rg8+ Kh6 7. Rxg6+ $3 hxg6 8. Qh8+ Kg5 9. h4+ Kg4 10. Be2+ Kg3 11. Qe5+ Kxh4 12. Qf4# {#} )2. exf7+ Kh8 3. Bb2 $3 1-0
+
+[Event "I c Argentina 22c/13"]
+[White "Dorin, Mauricio"]
+[Black "Botto, S."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Minev,N"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2rr2k1/p2n1p1p/bq4pB/3B2Q1/5N2/2P5/PP4PK/1R6 w - - 0 1"]
+
+1. Bxf7+ $1 Kxf7 (1... Kh8 2. Rd1 $1 Qf6 (2... Nf6 3. Ne6 )3. Rxd7 $1 $18 )2. Qd5+ Kf6 3. Re1 $1 Bc4 (3... Re8 4. Rxe8 Rxe8 5. Qxd7 Qb8 6. Qg7+ Kf5 7. Qf7+ $18 )4. Nh5+ $1 1-0
+
+[Event "I c Bad Lauterberg 23/73"]
+[White "Karpov, Anatoly"]
+[Black "Csom, Istvan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "q3rn1k/2QR4/pp2pp2/8/P1P5/1P4N1/6n1/6K1 w - - 0 1"]
+
+1. Nf5 $1 (1. Nf5 Qb8 (1... exf5 2. Qh2+ Kg8 3. Qg3+ {/\ Qg7#} )(1... Nxd7 2. Qh2+ Kg8 3. Qg3+ {/\ Qg7#} )2. Rh7+ $1 Nxh7 3. Qg7# {#} )1-0
+
+[Event "I c Moscow 23/354"]
+[White "Bukic, Enver"]
+[Black "Romanishin, Oleg M"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Bukic,E"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "6k1/p2r1p1p/3pbQp1/q1r2p2/2P5/1P3B2/P4PPP/R2R2K1 w - - 0 1"]
+
+1. b4 $1 Qxb4 2. Rdb1 (2. Rab1 $5 Qxc4 3. Be2 Qc2 4. Rb2 $18 )Qxc4 3. Be2 $1 (3. Be2 Qc2 4. Bd3 (4. Rb2 $5 )Qc3 5. Rb8+ Rc8 6. Qxc3 $18 )1-0
+
+[Event "I c Leningrad 24/318"]
+[White "Karpov, Anatoly"]
+[Black "Taimanov, Mark E"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Taimanov,M"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K b - - 0 1"]
+
+1... Ng3+ $1 (1... Ng3+ 2. hxg3 (2. Qxg3 Rxb1 )Ra8 $1 {/\ Rh8#} )0-1
+
+[Event "I c Albena 24c/18"]
+[White "Arkhipkin, Yury"]
+[Black "Prodanov, Dimitar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "4rrk1/p1pb1pp1/1pnq3p/3BpPN1/4Q3/2PP2P1/P1P4P/R4RK1 w - - 0 1"]
+
+1. f6 $1 hxg5 2. Qg6 $1 1-0
+
+[Event "I c Las Palmas 25/669"]
+[White "Rodriguez Vargas, Orestes"]
+[Black "Olafsson, Fridrik"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "3r1rk1/pp3ppp/8/2p5/4PB1n/P1P2qPP/Q3RP1K/6R1 b - - 0 1"]
+
+1... Qg2+ $1 (1... Qg2+ $1 2. Rxg2 Nf3+ 3. Kh1 Rd1+ 4. Rg1 Rxg1# {#} )0-1
+
+[Event "I c Bulgaria"]
+[White "Kristanov"]
+[Black "Nikolov, Sasho"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "4R3/p1q2ppk/2n2b2/3B2Pp/2P2P2/5N1P/Pr1Q2K1/8 w - - 0 1"]
+
+1. g6+ $1 fxg6 (1... Kxg6 2. Be4+ )2. Qxb2 $1 Bxb2 3. Ng5+ Kh6 4. Rh8# {#} 1-0
+
+[Event "I c Naleczow"]
+[White "Luczak, Andrzej"]
+[Black "Fedorowicz, John P"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "2r1rb1k/6p1/p2qp1Qp/2n2p1N/2P1R3/8/P5PP/1B2R1K1 w - - 0 1"]
+
+1. Nf6 $1 (1. Rg4 $2 Qd2 $1 2. Rf1 Nd3 $19 {Luczak - Fedorowicz} )gxf6 2. Rg4 $1 $18 *
+
+[Event "I c USSR 28c/2"]
+[White "Ivanov, Igor Y"]
+[Black "Kakageldyev, Amanmurad"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Ivanov,Ig.V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "4rqk1/1p3p2/r1b1p1p1/p2p2P1/3R1P2/2N1Q2R/PP3PP1/6K1 w - - 0 1"]
+
+1. f5 $1 exf5 (1... gxf5 2. Qe5 Qg7 3. Qf6 {/\ Rdh4+-} )2. Nxd5 $3 Bxd5 (2... Qg7 3. Nf6+ $18 )3. Rdh4 1-0
+
+[Event "I c Magyarorszag 28c/15"]
+[White "Cserna, Laszlo"]
+[Black "Ozsvath, Andras"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Bozic,Al"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5r1k/1p4bp/p1p3p1/7n/4P1Nq/1Q3n1P/PP2RPB1/3R3K b - - 0 1"]
+
+1... Qxf2 $3 2. Qxf3 (2. Rxf2 Ng3# {#} )Qxe2 $1 3. Qxe2 Ng3+ 4. Kh2 Nxe2 0-1
+
+[Event "I c Lone Pine 27/124"]
+[White "Chandler, Murray G"]
+[Black "Gruenfeld, Yehuda"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Liberzon,V"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r6r/3npk2/1q1p2p1/pP1P4/P1pbPPp1/2N3P1/2QB2K1/1R3R2 b - - 0 1"]
+
+1... Bg1 $1 (1... Bg1 2. Rxg1 Rh2+ 3. Kxh2 Qf2+ 4. Rg2 Rh8# {#} )0-1
+
+[Event "I c Danmark (ch) 29/466"]
+[White "Mortensen, Erling"]
+[Black "Rodgaard, John"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Hoi,C"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2r2r1k/pb1n2p1/1p1qB2p/2p5/2Pp3P/5N2/PPQ2PP1/1K1RR3 w - - 0 1"]
+
+1. Ng5 $1 Nf6 (1... hxg5 2. hxg5 $18 )2. Qg6 $3 (2. Nf7+ Rxf7 3. Bxf7 Rf8 $1 )(2. Bxc8 Bxc8 3. Nf3 Nh5 $132 )Rc7 (2... Rce8 3. Bf5 $1 Rxe1 (3... Bc6 4. Nf7+ $18 )(3... Qf4 4. Re6 $18 )4. Rxe1 Qc7 5. Nh7 $18 )3. f3 $1 $18 {[/\ Nf7]} *
+
+[Event "I c Nederland 30c/2"]
+[White "Perez Garcia, Hebert"]
+[Black "Van der Wiel, John"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "2b2r1k/p6p/4p1pN/3pRpB1/8/6P1/Pr2QP1P/q4BK1 w - - 0 1"]
+
+1. Rxf5 $3 Rxf5 2. Qe5+ $3 1-0
+
+[Event "I c Bologna"]
+[White "Magalotti, Andrea"]
+[Black "Pantaleoni, Claudio"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r2qk2r/1ppnbpp1/3p2bp/p1nP4/2PQ1BPP/2N2P2/PP3N2/2KR1B1R b kq - 0 1"]
+
+1... Nb3+ $1 2. axb3 Nc5 $1 $19 *
+
+[Event "I c Malta (ol) 30/268"]
+[White "Hort, Vlastimil"]
+[Black "Torre, Eugenio"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Hort,V"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3r2k1/1p3p2/p2b1q2/4p1np/P2p3P/3P4/QRR1N1P1/6K1 b - - 0 1"]
+
+1... Ne4 $3 2. dxe4 d3 3. Qb3 (3. Rc1 Bc5+ $19 )Bb8 $1 $19 *
+
+[Event "I c Dortmund 30/513"]
+[White "Kasparov, Garry"]
+[Black "Hjorth, G."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kasparov,G"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "6k1/ppr2ppp/8/3bP2Q/q1pP1R2/2P3P1/7P/5RK1 w - - 0 1"]
+
+1. e6 $1 Bxe6 2. d5 Qb5 (2... Rc5 3. Rxf7 $1 $18 )(2... g6 3. Qh4 $18 )3. Rh4 $1 $18 *
+
+[Event "I c USSR (ch) 31/397"]
+[White "Kupreichik, Viktor D"]
+[Black "Razuvaev, Yuri S"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kupreichik,V"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5rk1/1brn1p1p/p2p2p1/n1qP4/P1p1P3/1pR1NN2/1P1Q1PPP/1B2R1K1 w - - 0 1"]
+
+1. Nf5 $1 gxf5 2. Qh6 Re8 (2... f6 3. Nd4 $1 Qxd4 4. Rg3+ Kf7 5. exf5 $18 )3. Ng5 Ne5 4. Rg3 $1 $18 *
+
+[Event "I c Magyarorszag 32c/8"]
+[White "Pirisi, Gabor"]
+[Black "Szalanczy, Emil"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2r3k1/2qbp1b1/3p3p/p2P2p1/rp1N2P1/P2QBP2/1PPR4/1K5R w - - 0 1"]
+
+1. Rxh6 $3 Bxh6 2. Qg6+ Bg7 3. Ne6 Bxe6 4. Bd4 $1 1-0
+
+[Event "I c USSR 33/407"]
+[White "Giorgadze, Giorgi"]
+[Black "Mnatsakanian, Eduard A"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gufeld,E"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "3nb2k/1p2N1b1/4p1P1/3pP2P/p1rP1R2/5pK1/P7/1R6 w - - 0 1"]
+
+1. h6 $1 Bxh6 2. Rf8+ $1 (2. Rf8+ Bxf8 (2... Kg7 3. Rg8# {#} )3. Rh1+ Bh6 $8 (3... Kg7 4. Rh7# {#} )4. Rxh6+ Kg7 5. Rh7+ Kf8 6. g7+ $18 )1-0
+
+[Event "I c Plovdiv 37/277"]
+[White "Inkiov, Ventzislav"]
+[Black "Lukin, Andrei M"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Inkiov,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2kr1b2/3b3R/p2pp1p1/qp2n1P1/3NP3/1PN1B3/P1PQ4/1K6 w - - 0 1"]
+
+1. Nxe6 $3 Bxe6 2. Nd5 b4 (2... Qxd2 3. Rc7+ Kb8 4. Ba7+ Ka8 5. Nb6# {#} )3. Bb6 1-0
+
+[Event "I c Beer-Sheva 37c/10"]
+[White "Kudrin, Sergey"]
+[Black "Suba, Mihai"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "rr3bk1/5p2/p1bppPpp/2p1n1P1/1q2PB1R/2N4R/PP3QBP/6K1 w - - 0 1"]
+
+1. Rxh6 $1 Bxh6 2. Qh4 $1 Kf8 3. Qxh6+ Ke8 4. Qf8+ $3 1-0
+
+[Event "I c Kobenhavn 38/451"]
+[White "Sznapik, Aleksander"]
+[Black "Van der Wiel, John"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Sznapik,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r2q1rk1/2p3pp/3bPp2/p2p1P2/1pnP1B2/2P2N2/P4PK1/R2Q3R w - - 0 1"]
+
+1. Rxh7 $3 Bxf4 (1... Kxh7 2. Ng5+ fxg5 3. Qh5+ Kg8 4. Rh1 $18 )2. Ng5 $1 Bxg5 3. Qh5 (3. Qh5 Bh6 4. Rxh6 gxh6 5. Qg6+ Kh8 6. Rh1 $18 )1-0
+
+[Event "I c USSR (ch) 39c/3"]
+[White "Kupreichik, Viktor D"]
+[Black "Tukmakov, Vladimir B"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kupreichik,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2r1qrk1/1p2pp1p/1nnp1bpB/5P2/p2PP2R/1NN4Q/PP4PP/3R2K1 w - - 0 1"]
+
+1. Bg5 $1 Bxg5 (1... Bg7 2. Rxh7 axb3 3. Rxg7+ Kxg7 4. f6+ exf6 5. Qh6+ $18 )2. Rxh7 Bf6 (2... axb3 3. e5 dxe5 4. Ne4 {/\ Rh8, Qh7#} )3. Qh6 $1 e5 (3... axb3 4. e5 $1 Nxe5 5. Ne4 $18 )4. Rd3 $1 {[/\ Rh3, Rh8]} 1-0
+
+[Event "I c Ballarat 39c/10"]
+[White "West, Guy"]
+[Black "Hacche, David"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Hjorth,Gr"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1bq1r1k/p1p1b1pp/1p3p2/n2Pp2Q/4N2P/P1P3N1/BP3PP1/R3K2R w KQ - 0 1"]
+
+1. d6 $1 cxd6 2. Ng5 fxg5 (2... h6 3. Qg6 fxg5 4. Bb1 Kg8 5. Nh5 $18 )3. hxg5 h6 4. Qxh6+ $3 (4. Qxh6+ gxh6 5. Rxh6+ Kg7 6. Nh5# {#} )1-0
+
+[Event "I c Biel 40/386"]
+[White "Van der Wiel, John"]
+[Black "Short, Nigel D"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2kr4/p1pN1p1p/1pR5/8/3PQ3/6P1/b2q2PK/8 w - - 0 1"]
+
+1. Rd6 $3 1-0
+
+[Event "I c Lugano 41/22"]
+[White "Plaskett, Jim"]
+[Black "Miles, Anthony J"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Plaskett,J"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b3k1/pp5p/2p1n1n1/5N1q/2P4P/BP1RP1P1/P3N3/5RK1 w - - 0 1"]
+
+1. g4 $3 Qxg4+ 2. Neg3 {[/\ Nh6]} Qh3 3. Nh6+ Kg7 4. Ngf5+ $1 (4. Ngf5+ Kf6 5. Bb2+ Ne5 6. e4 $3 Qxd3 7. Ng4+ $18 )*
+
+[Event "I c BRD 41c/9"]
+[White "Becher, Helmut"]
+[Black "Brueckner, Thomas"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2kr3r/pp4qp/4p3/2bpPP2/2p3p1/2P3P1/PPBB2P1/R2Q1R1K b - - 0 1"]
+
+1... Qg6 $3 (1... Qg6 2. Rf2 (2. fxg6 hxg6+ $19 )Bxf2 3. Qg1 Bb6 $1 4. Rf1 (4. fxg6 hxg6+ 5. Qh2 Rxh2+ 6. Kxh2 Rh8+ )Rdf8 $1 $19 )0-1
+
+[Event "I c Magyarorszag 42/(662)"]
+[White "Hardicsay, Peter"]
+[Black "Adorjan, Andras"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Hardicsay,P"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2r2rk1/p1q1bpp1/bpp1pn1p/8/BP1PP3/P1Q2P2/1B1N2PP/3RK2R b K - 0 1"]
+
+1... Nd5 $3 (1... Nd5 2. exd5 Bh4+ 3. g3 Qxg3+ 4. hxg3 Bxg3# {#} )0-1
+
+[Event "I c Romania 43c/19"]
+[White "Ardeleanu, Alin"]
+[Black "Vasilescu, Lucian Mihail"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Ardeleanu,A"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1bqr1k1/3pnpb1/p1nB2pp/1p6/3pP2P/1B3N2/PP1N1PP1/R2Q1RK1 w - - 0 1"]
+
+1. Bxf7+ $1 Kxf7 2. Qb3+ Nd5 (2... Kf8 3. Ng5 $3 hxg5 4. f4 $1 Bf6 5. fxg5 Kg7 6. gxf6+ Kh8 7. Qf7 Rg8 8. fxe7 {1 : 0 Ardeleanu - Vasilescu} )3. Qxd5+ Re6 4. Nb3 $18 *
+
+[Event "I c Moscow 43/581"]
+[White "Vyzmanavin, Alexey"]
+[Black "Nikolenko, Oleg"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Vyzmanavin,A; Kishnev,S"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r7/p2qBr2/bp4k1/2pPp2N/2P1P2Q/8/P5PP/6K1 w - - 0 1"]
+
+1. Nf6 $3 (1. Nf6 Rxf6 (1... Qxe7 2. Qh5+ Kg7 3. Qh7+ Kxf6 4. Qh6# {#} )2. Qxf6+ Kh7 3. Qf7+ $18 )1-0
+
+[Event "I c USSR (ch) 46/825"]
+[White "Kasparov, Garry"]
+[Black "Smirin, Ilia"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kasparov,G; Nikitin,An"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2n3k1/6b1/1p1pR2p/1q1Pp3/2r1P3/6PB/8/5QK1 w - - 0 1"]
+
+1. Rxh6 $3 Bxh6 (1... Qc5+ 2. Kh1 Rc1 3. Be6# {#} )2. Be6+ Kh8 3. Qf6+ (3. Qf6+ Kh7 (3... Bg7 4. Qh4+ )4. Qf7+ Bg7 5. Bf5+ Kh8 6. Qh5+ Kg8 7. Be6+ $18 )1-0
+
+[Event "I c Esbjerg 46c/3"]
+[White "Mortensen, Erling"]
+[Black "Karlsson, Lars"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r5k1/pp1b2p1/2n1p1qp/3pPr2/2pP3Q/P1P1BN1R/2P2PP1/2K4R b - - 0 1"]
+
+1... Rxf3 $1 2. Rxf3 (2. gxf3 Nb4 $1 3. Kd2 (3. axb4 Ba4 )Qxc2+ 4. Ke1 Qb1+ 5. Bc1 (5. Ke2 Qd3+ )Qxc1+ 6. Ke2 Qxc3 $1 7. Kf1 Nd3 $19 )Nb4 $3 (2... Nb4 3. axb4 Ba4 4. Kb1 (4. Kd1 Qxc2+ 5. Ke1 Qd1# {#} )Qxc2+ 5. Ka1 Bb3 {/\ Qa2#} )0-1
+
+[Event "I c USSR 47c/26"]
+[White "Khmelnitsky, Igor N"]
+[Black "Kabatianski, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Khmelnitsky,I"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2r3k1/4nppp/Q3p3/8/1P1q4/4N1P1/5PP1/4R1K1 w - - 0 1"]
+
+1. Nf5 $1 (1. Nf5 exf5 2. Qxc8+ $1 $18 )1-0
+
+[Event "III c Manila (izt) 49/30"]
+[White "Portisch, Lajos"]
+[Black "Torre, Eugenio"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Torre,E; Chiong,L"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r5k1/pb5p/1pq1n1p1/3p2b1/1B1Pp3/1Q2P1N1/PP2B1PP/5RK1 w - - 0 1"]
+
+1. Nxe4 $3 (1. Bg4 Ba6 2. Re1 h5 $15 {Portisch - Torre} )dxe4 2. d5 Qxd5 3. Bc4 Bxe3+ 4. Kh1 $18 *
+
+[Event "II c Moscow 49/65"]
+[White "Makarichev, Sergey"]
+[Black "Miles, Anthony J"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Makarichev,S"]
+[Result "1/2-1/2"]
+[Date ""]
+[PlyCount "6"]
+[Setup "1"]
+[FEN "8/6pk/1p2Q2p/1P2Np1q/2P3P1/4PP1n/r6P/5R1K b - - 0 1"]
+
+1... Nf2+ $3 (1... fxg4 2. fxg4 Qg5 3. Rf8 $1 Nf2+ 4. Kg1 Nh3+ 5. Kf1 Ra1+ 6. Kg2 $18 )2. Rxf2 Qh3 $1 3. Qxf5+ Kg8 4. Qf7+ 1/2-1/2
+
+[Event "I c Wijk aan Zee 49/250"]
+[White "Short, Nigel D"]
+[Black "Piket, Jeroen"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Short,N"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5k2/pp1bpp1p/3p4/6PR/4P1n1/1N3r2/qPPQ4/2KR4 w - - 0 1"]
+
+1. g6 $1 (1. Rxh7 Bc6 $44 {Short - Piket} )Rxb3 (1... hxg6 2. Ra5 $1 Ba4 3. Qd4 $18 )2. Qd4 $1 Ne5 (2... Qa1+ 3. Kd2 Qxb2 4. Qxb2 Rxb2 5. gxh7 $18 )3. cxb3 (3. gxh7 Qa1+ 4. Kd2 Nf3+ 5. Ke2 Nxd4+ 6. Kf2 Rf3+ 7. Kg2 $18 )Nxg6 (3... hxg6 4. Rxe5 $18 )4. Rxh7 $18 *
+
+[Event "I c Manila (izt) 49/(263)"]
+[White "De Firmian, Nick E"]
+[Black "Yudasin, Leonid"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Cvetkovic,Sr"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r1b1r1kb/2qn3p/p2pp1pB/1p2n3/3NP1PQ/P1N5/1PP1B2P/2KR1R2 w - - 0 1"]
+
+1. Nxe6 $1 Qb7 (1... Rxe6 2. Nd5 Qa5 3. Qe7 $18 (3. Ne7+ Rxe7 4. Qxe7 $18 ))2. Nd5 Nf6 3. Nec7 $18 *
+
+[Event "I c Moscow 49/564"]
+[White "Chernin, Alexander"]
+[Black "Eingorn, Vereslav S"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Chernin,A"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r2qn1k1/4R1pp/p1pp4/5Np1/2P5/1P5P/P7/B4R1K w - - 0 1"]
+
+1. Nh6+ $1 (1. Rb7 $2 h6 {(Chernin - Eingorn)} 2. Bxg7 $1 Nxg7 3. Rxg7+ $14 )gxh6 2. Ref7 $1 Nf6 3. Bxf6 Qa5 4. Rg7+ $18 *
+
+[Event "I c Gausdal 50c/7"]
+[White "Aarland, Stein Arild"]
+[Black "Shirov, Alexei"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Shirov,A"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "5rk1/5p1p/3q2p1/1Rp1n3/P3P3/3Pb1pP/2Q3B1/3R3K b - - 0 1"]
+
+1... Ng4 $1 2. Bf3 (2. hxg4 Qf6 3. Bh3 (3. g5 Qf4 $1 $19 )Qf3+ 4. Bg2 Qxg4 $19 )(2. e5 Qe7 $1 3. Bf3 Nf2+ 4. Kg2 Qh4 5. Bg4 Nxg4 6. Qe2 Nf2 $19 )g2+ $1 (2... g2+ 3. Bxg2 (3. Qxg2 Nf2+ $19 )Qh2# {#} )0-1
+
+[Event "I c Novi Sad (ol) 50c/18"]
+[White "Wirthensohn, Heinz"]
+[Black "Lin, Ta"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "1n1q1r1k/r3p1bp/1pp1b1p1/p3Np2/2pP4/1P4P1/PB1QPPBP/2RR2K1 w - - 0 1"]
+
+1. d5 $3 cxd5 (1... Bf7 2. Qh6 $1 Kg8 (2... Bxh6 3. Nxf7+ Kg8 4. Nxh6# {#} )(2... Bf6 3. dxc6 $18 )3. Qxg7+ Kxg7 4. Ng4+ {/\ Nh6#} )2. Nxg6+ $1 (2. Nxg6+ Kg8 (2... hxg6 3. Qh6+ $18 )3. Nxf8 $18 )1-0
+
+[Event "I c Biel 50c/20"]
+[White "Wojtkiewicz, Aleksander"]
+[Black "Kuczynski, Robert"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Wojtkiewicz,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "6k1/1pqnQppp/2p1p3/8/r2P4/5BP1/4PP1P/5RK1 w - - 0 1"]
+
+1. d5 $3 Rd4 (1... exd5 2. Bxd5 cxd5 3. Qe8+ Nf8 4. Qxa4 $18 )(1... e5 2. dxc6 bxc6 3. Bxc6 $1 Ra7 (3... Qxc6 4. Qe8+ $18 )4. Bd5 {/\ Bf7+-} )2. Ra1 $1 Qc8 3. Qxd7 1-0
+
+[Event "I c Bayern - Porz 53/46"]
+[White "Vaganian, Rafael A"]
+[Black "Hjartarson, Johann"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Vaganian,R"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "6k1/1q1n1pp1/3Rp2p/1p1P4/5P2/1r2Q1PP/2rR2BK/8 w - - 0 1"]
+
+1. dxe6 $1 Rxe3 2. exd7 Re2 3. d8=Q+ Kh7 4. Rxh6+ $1 (4. Rxh6+ Kxh6 (4... gxh6 5. Qd3+ )5. Qg5+ Kh7 6. Qh5+ Kg8 7. Rd8+ )1-0
+
+[Event "I c Novi Sad 54c/3"]
+[White "Popovic, Petar J"]
+[Black "Kosic, Dragan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r5k1/pbq2pp1/4pn1p/4N3/1p1r2P1/3B4/PPP1QPP1/4RK1R w - - 0 1"]
+
+1. g5 $1 hxg5 2. Ng6 $3 Nh7 3. Rxh7 $1 1-0
+
+[Event "III c Linares (m/1) 55/227"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Anand,V"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "8/2r5/p2bkp2/1p2p3/7P/PP4R1/K1P1RB2/3r4 b - - 0 1"]
+
+1... e4 $1 2. Rxe4+ (2. Rg1 Rxg1 3. Bxg1 f5 )Be5 3. Rxe5+ (3. c3 Rd2+ 4. Kb1 Rxf2 )fxe5 4. Kb2 Rd2 0-1
+
+[Event "III c Chalkidiki 56c/16"]
+[White "Bakhar, M."]
+[Black "Gleizerov, Evgeny"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "4r1k1/p2q1pp1/2n1r2p/3p4/1ppPnBP1/2P4P/PPQNR1P1/4R1K1 b - - 0 1"]
+
+1... Nxc3 $3 2. Rxe6 Rxe6 3. Rxe6 Nxd4 $1 4. Rd6 Qe7 $1 0-1
+
+[Event "I c Biel (izt) 58/174"]
+[White "Polgar, Judit"]
+[Black "Rogers, Ian"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Polgar,Ju"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "2r3k1/2q2pp1/2p1p3/3n1nBB/3r4/P2R2P1/4QPK1/7R w - - 0 1"]
+
+1. Bg6 $1 Rxd3 2. Bh7+ (2. Bh7+ Kf8 3. Bxf5 )1-0
+
+[Event "I c Kecskemet 59c/2"]
+[White "Schipkov, Boris"]
+[Black "Meszaros, Gyula"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Fominyh,A; Schipkov,B"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1k1r3r/ppp2p1p/7n/1Pb1Nqp1/Q1Pp1Bb1/6P1/P3PPBP/R4RK1 w - - 0 1"]
+
+1. b6 $3 Bxb6 (1... axb6 2. Nc6+ $1 Kc8 (2... bxc6 3. Bxc6 )3. Na7+ Kb8 4. Nb5 gxf4 5. Bxb7 $1 Kxb7 6. Qa7+ Kc6 7. Qxc7# {#} )2. Nc6+ $1 Ka8 (2... bxc6 3. Qxc6 Kc8 4. Bxc7 $3 Bxc7 5. Rab1 $1 $18 {/\ Rb8} )3. Bxc7 $1 Qc5 4. Bxb6 (4. Bxb6 Qxb6 5. Rab1 )1-0
+
+[Event "I c Ankara 59c/14"]
+[White "Adhami, Vangiel"]
+[Black "Skembris, Spyridon"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Skembris,S"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "8/1r6/8/3kn2r/p3Np1p/b1p2P1R/K1P3P1/4R1B1 b - - 0 1"]
+
+1... Rb2+ $1 2. Kxa3 (2. Ka1 Rxc2 $1 3. Nf6+ Kc4 4. Nxh5 Kb3 $1 {/\ Ra2, c2#} )Nc4+ 3. Kxa4 Kc6 $3 (3... Kc6 4. Nc5 Rxc5 5. Re6+ (5. Bxc5 Kxc5 {/\ Rb4#} )Kd5 6. Bxc5 Kxc5 {(/\ Rb4#)} 7. Rc6+ Kxc6 8. Rxh4 Nb6+ {/\ Nd5} )0-1
+
+[Event "I c Budapest 60c/1"]
+[White "Lengyel, Levente"]
+[Black "Mikhalevski, Victor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Mikhalevski,V"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r4rk1/3q1pp1/pp5p/1p6/5nb1/1BP3N1/PPQ2PPP/4RRK1 b - - 0 1"]
+
+1... Bf3 $1 2. Re3 (2. Nf5 Bxg2 3. Re7 Qc6 4. Rxf7 Nh3# {#} )Qh3 $3 0-1
+
+[Event "III c Biel 61/(284)"]
+[White "Ziatdinov, Raset"]
+[Black "Zueger, Beat"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b2rk1/pp2bppp/1n2p3/qB1pP3/3B1P2/PRN5/2P2QPP/5RK1 w - - 0 1"]
+
+1. Ne4 $1 Nc4 2. Nf6+ $1 Bxf6 3. exf6 Qd2 4. fxg7 $18 *
+
+[Event "I c Berlin 61c/17"]
+[White "Lagunow, Alexander"]
+[Black "Schneider, Bernd"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Lagunow,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "kr4nr/ppqbp2p/3p1pp1/2pP4/2P1P3/1RP1B1P1/PQ3PBP/1R4K1 w - - 0 1"]
+
+1. Bxc5 $3 dxc5 (1... Qxc5 2. Rxb7 $18 )(1... b6 2. Be3 {(/\ c5)} Qxc4 (2... g5 3. e5 $1 {/\ c5} )3. Bxb6 $1 axb6 4. Rxb6 $18 )2. e5 $1 {[/\ d6, Bb7]} Bc8 (2... Qc8 3. e6 $1 Ba4 (3... Be8 4. d6 Bc6 5. d7 Qc7 6. Bxc6 Qxc6 7. Rxb7 $1 )4. Rxb7 $1 Qxb7 (4... Rxb7 5. d6 Bc6 6. d7 )5. Qxb7+ (5. d6 $4 Qxg2+ 6. Kxg2 Rxb2 $19 )Rxb7 6. d6 $18 )3. d6 exd6 (3... Qd7 4. e6 $1 )4. Qa3 $1 (4. Qa3 a5 5. Rb6 )(4. exd6 $2 Qd7 5. Qa3 Qxd6 )1-0
+
+[Event "I c Espana 63c/10"]
+[White "Wilson, J."]
+[Black "Del Corral, A."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Nedobora,M; Bronznik,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r1b1kb1r/2qn1ppp/p2p4/4pPB1/Np1Nn3/1B6/PPP3PP/R2Q1RK1 w kq - 0 1"]
+
+1. Nb5 $3 Qc6 (1... axb5 2. Bxf7+ $1 Kxf7 3. Qd5+ Ke8 4. Qe6+ Be7 5. Qxe7# {#} )2. Nc7+ $1 (2. Qd5 $18 )Qxc7 3. Bxf7+ $1 (3. Bxf7+ Kxf7 4. Qd5+ Ke8 5. Qe6+ Be7 6. Qxe7# {#} )1-0
+
+[Event "I c Israel 63c/31"]
+[White "Mikhalevski, Alexander"]
+[Black "Alterman, Boris"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Alterman,B"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1r4rk/1b1N3p/p1qpPn2/P1p2p1n/2Bb1P2/2N2R2/1P1B2PP/R2Q3K b - - 0 1"]
+
+1... Ng3+ $1 2. hxg3 (2. Rxg3 Qxg2+ 3. Rxg2 Bxg2# {#} )Rg6 3. Qg1 Qxf3 $1 (3... Qxf3 4. gxf3 Bxf3+ 5. Qg2 Rh6# {#} )0-1
+
+[Event "I c New York (m/13) 64/218"]
+[White "Anand, Viswanathan"]
+[Black "Kasparov, Garry"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kasparov,G"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "4r3/p4pk1/1q2rnp1/7p/2B4P/2P2P2/P2Q2P1/R4K1R b - - 0 1"]
+
+1... Ne4 $1 (1... Ne4 2. Qe1 (2. fxe4 Rf6+ 3. Ke1 Rxe4+ 4. Be2 Qf2+ 5. Kd1 Rxe2 )Rd6 $1 $19 )0-1
+
+[Event "I c Martigny 64/534"]
+[White "Gheorghiu, Florin"]
+[Black "Glek, Igor V"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Glek,I"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b3k1/1p2p1B1/p3pnp1/2p3N1/2P5/2N4r/PP3P1q/R1Q1RK2 b - - 0 1"]
+
+1... e5 $3 (1... Kxg7 2. Nxh3 Qxh3+ 3. Ke2 $13 )2. Bxf6 (2. Nxh3 Bxh3+ 3. Ke2 Rd8 $1 {(/\ Bg4)} 4. Qh6 Bg4+ 5. Ke3 Bd1 $1 6. Raxd1 Ng4+ 7. Kf3 Nxh6 8. Rxd8+ Kxg7 9. Nd5 Nf5 $19 )Bg4 $3 3. Nxh3 (3. f3 Rxf3+ $1 4. Nxf3 Bh3# {#} )(3. Ne2 Qh1+ (3... Rf3 )4. Ng1 Rh2 {/\ Qg2-+} )Qxh3+ 4. Kg1 Bf3 0-1
+
+[Event "I c Deutschland 64c/18"]
+[White "Kovalev, Andrei"]
+[Black "Libeau, Rene"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kovalev,An"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2kr3r/ppq3pp/B1b1pp2/2Ppn3/5B2/P1P5/2P1QPPP/1R3RK1 w - - 0 1"]
+
+1. Rxb7 $3 (1. Rxb7 Bxb7 2. Rb1 Rd7 3. Rxb7 Qxb7 4. h3 $1 (4. Bxe5 Kd8 $3 5. Bxb7 Rxb7 6. f4 fxe5 7. Qxe5 Re8 $16 )Kd8 5. Bxb7 Rxb7 6. Qa6 $18 )1-0
+
+[Event "III c Jugoslavija 64c/21"]
+[White "Brkovic, Bojan"]
+[Black "Jerkovic, Boris"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Jerkovic,B"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "5rk1/1bq2ppp/p1p1p3/2b5/2PrBP2/1P4P1/PB2Q2P/R4R1K b - - 0 1"]
+
+1... Rxe4 $1 2. Qxe4 Bd4 $3 3. Qxd4 (3. Qe2 c5+ 4. Rf3 Bxf3+ 5. Qxf3 Bxb2 $19 )(3. c5 $5 Bxb2 $19 )c5+ 0-1
+
+[Event "I c Matanzas 64c/28"]
+[White "Lopez, Sebastian"]
+[Black "Parra Cabrera, Eldimar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Camacho Penate,G"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1r2k3/p2n1pb1/4p1p1/3p1P2/qpnP2P1/3Q2N1/PPPB4/1KR2B2 b - - 0 1"]
+
+1... Nc5 $1 2. dxc5 (2. Qe2 Bxd4 {/\ Qa3-+} )Qa3 $1 3. Qxa3 (3. bxa3 bxa3+ 4. Qb3 Nxd2# {#} )Nxd2+ 0-1
+
+[Event "I c Wijk aan Zee 65/156"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Anand,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b2rk1/1p2q3/p3pbn1/2p2R2/8/1B1P2Q1/PPP3PP/4R2K w - - 0 1"]
+
+1. Rxe6 $1 (1. Qxg6+ $2 Qg7 2. Rxe6 Qxg6 3. Rexf6+ Kh7 $19 )Kg7 (1... Bxe6 2. Qxg6+ Qg7 3. Bxe6+ Kh8 4. Rh5+ $18 )2. Rxe7+ Bxe7 3. Rxf8 Bxf8 4. h4 $1 (4. h4 Kh7 5. h5 Ne7 6. Qf3 $18 )1-0
+
+[Event "I c Horgen 65/405"]
+[White "Kasparov, Garry"]
+[Black "Kortschnoj, Viktor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kasparov,G"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r1b3r1/pp2q1k1/2pRp2p/4Pp1Q/5P2/6PB/P6P/1R5K w - - 0 1"]
+
+1. Bxf5 $1 Qf7 (1... exf5 2. Rg6+ Kf8 3. Rf6+ $18 )2. Qxf7+ Kxf7 3. Bxe6+ $1 1-0
+
+[Event "I c Kladovo 65c/16"]
+[White "Todorovic, Goran M"]
+[Black "Djukic, Zeljko"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Todorovic,G.M"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b2rk1/2qn1ppp/p3p3/1p2P1B1/3R4/1NP1Q3/P1P3PP/2KR4 w - - 0 1"]
+
+1. Bf6 $1 Nxf6 (1... gxf6 2. Rg4+ Kh8 3. Qh6 Rg8 4. Rxd7 $1 $18 )(1... h6 2. Rg4 $18 )2. exf6 Qxh2 (2... e5 3. Qg5 $18 )3. Rg4 $1 e5 (3... g6 4. g3 $1 {/\
+Rh4, Qh6+-} )(3... Qh5 4. Rxg7+ Kh8 5. g4 Qh4 6. Rxf7 $18 )(3... Bb7 4. Qg5 g6 5. Rh4 $18 )4. Qg5 1-0
+
+[Event "I c Cuba 66c/15"]
+[White "Garcia, P."]
+[Black "Lopez, Cezar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Pelaez,Jor"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r4r1k/1p1b2pp/p2p1q2/3Pb3/1PP5/PQ1B1pP1/3N1P2/3RR1K1 b - - 0 1"]
+
+1... Bxg3 $1 2. Ne4 (2. fxg3 f2+ $19 )Bh2+ $1 3. Kxh2 (3. Kf1 Bh3# {#} )(3. Kh1 Qh4 $19 )Qh4+ 4. Kg1 Rf6 $1 (4... Rf6 5. Ng3 (5. Nxf6 Qg5+ {/\ Qg2#
+} )Rh6 {/\ Qh2-g2#} )0-1
+
+[Event "I c corr 67c/16"]
+[White "Kujala, Auvo"]
+[Black "Zagorovsky, Vladimir Pavlovich"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kujala,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "3qrbk1/r7/1nRpp3/1p2p1p1/1P2P3/P4NQ1/5PP1/B1R3K1 w - - 0 1"]
+
+1. Nd4 $3 (1. Nd4 exd4 2. Bxd4 Rb7 3. Rxb6 $1 Rxb6 4. Rc8 $3 Qe7 (4... Qxc8 5. Qxg5+ Kh7 6. Qh5+ Bh6 7. Qf7+ )5. Rxe8 Qxe8 6. Qxg5+ $18 {/\ Bb6} )1-0
+
+[Event "I c Cuba 67c/22"]
+[White "Perez, Angel"]
+[Black "Saavedra, Carlos"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perez Quinones,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2r2rk1/pp1b1pb1/3ppnp1/q3n1B1/3NP1P1/1BN5/PPPQ4/2K3RR w - - 0 1"]
+
+1. Nf5 $3 {[/\ Ne7#]} exf5 (1... gxf5 2. Bxf6 $1 {(/\ Qh2)} Bxf6 (2... Nxg4 3. Rxg4 fxg4 4. Bxg7 )3. gxf5+ Ng6 (3... Bg7 4. Qh6 )4. Qh6 Rfe8 5. fxg6 $18 )(1... Rfe8 2. Nxg7 $18 )(1... Qd8 2. Bh6 $1 $18 )2. Bxf6 Nf3 (2... Bxf6 3. gxf5 (3. Qh6 $2 Rfe8 4. Nd5 Bg7 5. Qh7+ Kf8 6. gxf5 Ba4 $1 $19 )Rxc3 (3... d5 4. Qh6 )4. bxc3 Qa3+ 5. Kb1 Bg7 6. f6 $1 Bxf6 7. Qh6 $18 )3. Qh6 $1 1-0
+
+[Event "I c Chalkida 68/504"]
+[White "Atalik, Suat"]
+[Black "Cela, Altin"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Atalik,S"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "2r3k1/5pP1/3p1BpP/r2Pp3/p3b1N1/1p6/PP6/1R2K3 w - - 0 1"]
+
+1. Bd8 $3 (1. Bd8 Kh7 2. Bg5 $1 {/\ Nf6#} )(1. Bg5 $4 f5 2. Nf6+ Kf7 $19 )(1. axb3 $2 Bf5 2. Bd8 Bxg4 3. Bxa5 axb3 $11 )1-0
+
+[Event "III c Groningen 68/518"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gelfand,B"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "2r2r1k/1pN1Qpbp/p4pp1/qb6/8/1B6/PP3PPP/2RR2K1 w - - 0 1"]
+
+1. Be6 $3 (1. Bxf7 Be2 $145 $1 (1... Bc6 2. Ne6 $18 )(1... f5 2. b4 $1 (2. Ne6 Rxc1 3. Rxc1 Qd2 4. Rb1 Rc8 $132 )Qa3 3. Be6 Bf6 4. Qc5 Rcd8 5. Nxb5 axb5 6. Qxb5 $16 )2. Rd7 (2. Re1 Bc4 $1 $132 )(2. Qxe2 Rxf7 3. b4 Qxb4 4. Nxa6 Qf8 $11 )Bb5 (2... Qg5 $2 3. Rc5 Rxf7 4. Qxf7 Qh6 5. Qxg7+ Qxg7 6. Rxg7 $18 )3. Rdd1 Be2 $11 )Rb8 (1... Rce8 2. Nxe8 Rxe8 3. Qxf7 $18 )(1... fxe6 2. Nxe6 Bh6 3. Nxf8 Rxf8 4. Rc7 $18 )2. Bxf7 {[/\ Ne6, Bg6!+-]} 1-0
+
+[Event "I c Arandjelovac 69/(156)*"]
+[White "Matulovic, Milan"]
+[Black "Pikula, Dejan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Matulovic,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1bq1r2/1p1nbk1p/p2p2p1/3Np1P1/2PNP3/4B3/PP2B2P/R2Q2K1 w - - 0 1"]
+
+1. Ne6 $3 Kxe6 (1... Qa5 2. Bd2 $18 )2. Nc7+ $1 Kf7 (2... Qxc7 3. Qd5# {#} )3. Qd5+ Kg7 4. Ne6+ $18 *
+
+[Event "II c Omsk 69/308"]
+[White "Korneev, Oleg"]
+[Black "Khachiyan, Melikset"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1/2-1/2"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r1q3kb/p4b1p/2rB3P/2p2p2/2P4R/P5P1/1P1Q1P2/2KR4 w - - 0 1"]
+
+1. Rg4+ $3 fxg4 2. Qg5+ Bg6 3. Qd5+ 1/2-1/2
+
+[Event "I c Malmoe 70/288"]
+[White "Hellers, Ferdinand"]
+[Black "Hansen, Curt"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2r2r2/p4p1k/1pn1pP1p/n2pP3/q2p2PN/2P5/2PQ3P/4RRK1 w - - 0 1"]
+
+1. Rf5 $3 dxc3 2. Qxh6+ Kxh6 3. Rh5# {#} 1-0
+
+[Event "I c Bela Crkva 70c/31"]
+[White "Dena, Branislav"]
+[Black "Todorovic, Goran M"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Todorovic,G.M"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "4r1k1/p2q1pp1/2Rp4/3Pr3/1P2pn1p/P1R1Qn1P/B4PP1/5N1K b - - 0 1"]
+
+1... Rg5 $3 2. Nh2 (2. Qxf4 Qxh3+ $1 3. Qh2 (3. gxh3 Rg1# {#} )Rxg2 $1 4. Rxf3 Rxh2+ 5. Nxh2 exf3 {/\ Qg2#} )(2. Ng3 hxg3 3. fxg3 (3. Qxf4 Qxh3+ 4. gxh3 g2# {#} )Rxg3 4. Rc7 (4. Qxf4 Qxh3+ 5. gxh3 Rg1# {#} )Qxh3+ 5. gxh3 Rxh3# {#} )Rxg2 0-1
+
+[Event "I c Berlin 70c/36"]
+[White "Kuzmin, Gennadi P"]
+[Black "Eingorn, Vereslav S"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gipslis,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "3n1rk1/pp3ppp/1b1N4/3Q4/8/1P4PP/q3r1B1/3R1R1K w - - 0 1"]
+
+1. Nxf7 $1 Nxf7 (1... Rxf7 2. Qxd8+ $1 $18 )2. Rxf7 $1 (2. Rxf7 Rxf7 3. Qd8+ $1 Bxd8 4. Rxd8+ Rf8 5. Bd5+ $18 )1-0
+
+[Event "I c Romania 71c/3"]
+[White "Moraru, Marius"]
+[Black "Istrate, Bogdan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Stoica,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "rn2k2r/1q1b1ppp/p3pn2/2B1p3/1p6/1BN3Q1/PPP2PPP/R4RK1 w - - 0 1"]
+
+1. Nd5 $1 exd5 (1... Nxd5 2. Qxg7 $18 )2. Qxg7 Rg8 3. Qxf6 (3. Qxf6 Be6 (3... Bc6 4. Qxe5+ Kd8 5. Rad1 )4. Ba4+ Nc6 5. Bxc6+ Qxc6 6. Qe7# {#} )1-0
+
+[Event "I c Predeal 75/229*"]
+[White "Ardeleanu, Alin"]
+[Black "Marjanovic, Slavoljub"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r2qk2r/Q2b1Rpp/3b4/2N5/1p1pP3/1B6/PPP3PP/6K1 w kq - 0 1"]
+
+1. Rxd7 $3 Rxa7 2. Bf7+ Kf8 3. Ne6# {#} *
+
+[Event "I c Krasnodar 75/365"]
+[White "Moldobaev, Emelbek"]
+[Black "Tregubov, Pavel V"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tregubov,P"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2r2rk1/p3bppp/4pn2/6B1/Qn6/3qPN2/PP1N1PPP/R1RK4 b - - 0 1"]
+
+1... Ne4 $1 2. Rxc8 (2. Bxe7 Nxf2+ 3. Ke1 Qxe3+ 4. Kf1 Nfd3 5. Bh4 Nxc1 6. Qxb4 Qe2+ 7. Kg1 Qd1+ 8. Be1 Ne2+ 9. Kf2 Qxa1 10. Kxe2 Qxa2 $19 )Rxc8 3. Bxe7 Nxf2+ 4. Ke1 Ng4 $1 (4... Ng4 5. Bc5 (5. Kd1 Nc2 )(5. Qxb4 Qxe3+ )Nc2+ 6. Kd1 Ncxe3+ 7. Ke1 Nxg2+ 8. Kd1 N4e3+ 9. Bxe3 Nxe3+ 10. Ke1 Nc2+ )0-1
+
+[Event "III c La Habana 75c/1"]
+[White "Abreu Delgado, Aryam"]
+[Black "Podgaets, Mikhail"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Podgaets,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2r3k1/2rR1ppp/p1P1p3/1p2P2b/4N3/P7/5PPP/2R3K1 w - - 0 1"]
+
+1. g4 $3 Bxg4 (1... Rxd7 2. cxd7 Rxc1+ 3. Kg2 Rd1 4. Nd6 $18 )2. Nd6 Kf8 (2... Rxd7 3. cxd7 Rd8 4. Rc8 $18 )3. Nxc8 Rxc8 4. Ra7 $18 *
+
+[Event "I c Manresa 76c/3"]
+[White "Moskalenko, Viktor"]
+[Black "Santamaria, Jorge"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Moskalenko,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r2r1k2/1b3p1Q/p3p3/1pq1P1pp/5Pn1/P1N3P1/1P4P1/1B1R1R1K w - - 0 1"]
+
+1. Bg6 $3 (1. Bg6 Bxg2+ (1... fxg6 2. fxg5+ Nf2+ 3. Kg1 $1 $18 )2. Kxg2 Ne3+ 3. Kh1 Qc7 (3... Qc6+ 4. Be4 Qc4 5. Bxa8 $18 )4. Qh8+ Ke7 5. Qg7 Qc6+ 6. Be4 Qc4 7. Bxa8 Rxd1 8. Rxd1 Nxd1 9. Qf6+ Ke8 10. Nxd1 $18 )1-0
+
+[Event "I c Stratton Mountain 78/216*"]
+[White "Ehlvest, Jaan"]
+[Black "Fedorowicz, John P"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Ehlvest,J"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r4b2/pp1b1Bpk/1q1p3p/3P1pQ1/6rP/2B5/PPP3P1/1K3R1R w - - 0 1"]
+
+1. Rf4 $3 Rxg5 2. hxg5 g6 3. Rfh4 $18 *
+
+[Event "II c Essen 78/307"]
+[White "Sutovsky, Emil"]
+[Black "Glek, Igor V"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Sutovsky,E"]
+[Result "1/2-1/2"]
+[Date ""]
+[PlyCount "8"]
+[Setup "1"]
+[FEN "1r2kr2/p4p2/4pQ1p/2RpP1p1/3Pn2P/3N4/q4PP1/2R3K1 w - - 0 1"]
+
+1. Rc7 $3 (1. Qxh6 $6 Nxc5 2. Nxc5 Rb1 3. Qxg5 Qc2 4. Rxb1 Qxb1+ 5. Kh2 Rh8 $17 )Nxf6 2. exf6 Qd2 (2... Qa3 3. R1c6 $1 (3. Ne5 $2 Qxc1+ 4. Rxc1 Kd8 $1 $17 )Kd8 (3... Qxd3 4. Re7+ Kd8 5. Rd6+ Kc8 6. Rc6+ Kd8 $11 )4. Ne5 gxh4 5. Rd7+ Ke8 $11 )(2... Kd8 3. Ne5 Qa4 (3... Qc4 $5 4. R1xc4 dxc4 5. Rxa7 c3 (5... Kc8 $6 6. Nxc4 Rd8 7. hxg5 hxg5 8. Rxf7 Rxd4 9. Ne5 $16 )6. Nc6+ Kc8 7. Ne7+ Kd8 8. Nc6+ Kc8 $11 )4. h5 $1 a5 5. Kh2 Qb5 6. Ra7 Rb7 (6... Rc8 7. Rb1 $1 $11 )7. Ra8+ Rb8 8. Ra7 Qb7 9. Nc6+ Kd7 10. Ne5+ Kd8 11. Nc6+ Ke8 12. Rxb7 Rxb7 13. Nxa5 Rb8 14. Rc7 Kd8 15. Ra7 Rc8 16. g4 Rc7 17. Ra8+ Rc8 18. Ra7 $11 )3. Re7+ Kd8 4. Rcc7 Qxd3 1/2-1/2
+
+[Event "I c Cuba 78c/23"]
+[White "Sada, Omar"]
+[Black "Rodriguez, Yann"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Sada,O"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r4r2/2q2p1k/3ppbpP/p7/1p1NP3/3Q1P2/PPP5/1K4RR w - - 0 1"]
+
+1. e5 $1 Bxe5 (1... dxe5 2. Nxe6 $1 $18 )2. Nxe6 $1 fxe6 3. Qxg6+ Kh8 4. Qg7+ $1 $18 *
+
+[Event "I c Russia 78c/24"]
+[White "Ovetchkin, Roman"]
+[Black "Shcherbakov, Ruslan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Ovetchkin,R"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "6rk/3q1p1p/p1pp1PnQ/6P1/8/1P6/P1PB2P1/4R1K1 w - - 0 1"]
+
+1. Re7 $1 (1. Bc3 $2 Ne5 $44 {Ovetchkin - Sherbakov} )Nxe7 2. fxe7 Qa7+ 3. Kf1 Qd4 4. Qxd6 $3 $18 *
+
+[Event "I c Haarlem 79/443"]
+[White "Solozhenkin, Evgeniy"]
+[Black "Schuil, Jeroen"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Solozhenkin,E"]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "3rr1k1/p3Rp1p/1p1Pb1p1/b1p5/q4PP1/B1P1QB2/P6P/3R2K1 w - - 0 1"]
+
+1. f5 $1 Rxe7 (1... gxf5 2. Qg5+ Kh8 3. Bb2 Qc4 4. Qf6+ Kg8 5. gxf5 $18 )2. f6 $3 $18 *
+
+[Event "I c Kfar-Saba 79c/1"]
+[White "Tsesarsky, Ilya"]
+[Black "Deutsch, Eyal"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tsesarsky,I"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "5k1r/5p2/4pNp1/p3P1Q1/Pp1r1P2/3p1R1P/1qbR2PK/8 w - - 0 1"]
+
+1. f5 $1 gxf5 (1... exf5 2. e6 fxe6 (2... Qc3 3. e7+ $18 )3. Qxg6 f4 4. Ne4 $18 )2. Rg3 Ke7 (2... f4 3. Rg4 $18 )3. Nd5+ $18 *
+
+[Event "I c Biel (rapid) 79c/7"]
+[White "Milov, Vadim"]
+[Black "Kempinski, Robert"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Milov,V"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r5rk/p1RR2b1/Pp4pp/1q2p3/4bp2/P4N1P/Q2B1PP1/6K1 w - - 0 1"]
+
+1. Nxe5 $3 Qxe5 (1... Bf5 2. Nf7+ Kh7 3. Re7 $18 )2. Bc3 Qxc3 (2... Qg5 3. f3 $1 $18 )3. Rxc3 Bxc3 4. Qc4 $18 *
+
+[Event "I c Americana 79c/8"]
+[White "Pelikian, Jefferson"]
+[Black "Pereira, S."]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Da Costa Junior,L"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5Q2/p3r2k/2pNqpp1/2P2p1p/3P1P1P/r3P3/5PRK/8 w - - 0 1"]
+
+1. e4 $1 fxe4 (1... Rg7 2. exf5 Rg8 (2... Qg8 3. Qxf6 $18 )3. fxe6 Rxf8 4. e7 $18 )2. f5 $1 gxf5 3. Nxf5 Rh3+ 4. Kg1 $1 1-0
+
+[Event "I c Cuba 79c/16"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Pecorelli Garcia, Humberto"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Bruzon Batista,L; Gongora Reyes,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3rnk1/pb3p1p/1q4pQ/1p1p1PP1/2pn4/5PN1/PPBB3P/R5RK w - - 0 1"]
+
+1. Nh5 $1 Nxf5 (1... gxh5 2. f6 $1 Nde6 3. Bxh7+ $1 Nxh7 4. g6 Nhf8 (4... Nxf6 5. Bb4 $3 Nc5 6. gxf7+ Kxf7 7. Qg7+ Ke6 8. Rae1+ Nfe4 9. Rg6+ $18 )5. Bb4 $3 {
+(/\ Qh8)} Qf2 6. Raf1 Qxf1 7. Qh8+ $1 $18 )2. Bxf5 gxh5 3. Bxh7+ $1 Nxh7 4. g6 $18 *
+
+[Event "I c Elista 80/239"]
+[White "Najer, Evgeniy"]
+[Black "Bocharov, Dmitry"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r1b1r3/1q1nbkpp/pp6/n2p4/3N1B2/8/1PP1B1PP/R2Q1R1K w - - 0 1"]
+
+1. Bxa6 $3 Rxa6 2. Qh5+ Kg8 3. Qxe8+ Nf8 4. Bg5 $1 $18 *
+
+[Event "I c New Delhi (m/2) 80/379"]
+[White "Anand, Viswanathan"]
+[Black "Bologan, Viktor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Anand,V"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2b1rb1k/2r2ppp/n2p4/3P2PN/3NPQ2/2p3RP/1q3PK1/1B1R4 w - - 0 1"]
+
+1. Nf6 $1 Re5 (1... gxf6 2. gxf6 h6 3. Ne6 $18 )(1... Rd8 2. Nxh7 $1 Kxh7 3. g6+ $1 Kg8 (3... fxg6 4. Qh4+ $18 )4. Qh4 fxg6 5. Qxd8 $18 )2. g6 $1 fxg6 (2... gxf6 $2 3. Qxf6+ Bg7 4. Qd8+ $18 )(2... h6 3. gxf7 $1 g5 (3... Rxf7 $2 4. Qxh6+ $1 $18 )4. Ne8 Bf5 5. Nxc7 gxf4 6. Rg8+ Kh7 7. Ne8 $1 $18 )(2... hxg6 3. Qh4+ Rh5 4. Nxh5 gxh5 5. Bc2 $1 g6 6. Rb1 Qa2 7. Qd8 Kg7 8. Rb8 $1 $18 )3. Nd7 $1 $18 *
+
+[Event "I c Bayamo 80c/26"]
+[White "Delgado Ramirez, Neuris"]
+[Black "Llorente Galardy, Jorge"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Delgado,N"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r3rk2/4bppp/p3pn2/qp1bN1B1/3p3P/1P1B2R1/P1P1QPP1/1K1R4 w - - 0 1"]
+
+1. Bh6 $1 gxh6 (1... Ba3 2. Rxg7 $18 )2. Qh5 $3 Nxh5 3. Nd7# {#} 1-0
+
+[Event "I c Panormo 82/433*"]
+[White "Avrukh, Boris"]
+[Black "Portisch, Lajos"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Avrukh,B"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3rrb1k/p1Q3pp/1p2R3/5p2/1P1N1P1q/P3PP2/4K2n/6RB b - - 0 1"]
+
+1... Ng4 $3 (1... Rxe6 $2 2. Nxe6 Rd2+ 3. Kxd2 Qf2+ 4. Kd3 Qxg1 5. Qf7 $18 )2. fxg4 (2. Rxg4 fxg4 $19 )Qh2+ 3. Kf1 Rxd4 $19 *
+
+[Event "I c Russia 82c/15"]
+[White "Varavin, Viktor"]
+[Black "Nizamov, Ildar"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r4r1k/1pqb2pp/p2b2n1/P1p1pp1N/2B3Q1/1P2R3/1BPP1PPP/R5K1 w - - 0 1"]
+
+1. Qxg6 $1 hxg6 2. Nf4 $1 $18 *
+
+[Event "I c France 83/(408)"]
+[White "Legky, Nikolay A"]
+[Black "Tregubov, Pavel V"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tregubov,P"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2r2rk1/p3bppp/qp2p3/8/1n1P4/1Q2PNB1/PP1K1PPP/R1R5 b - - 0 1"]
+
+1... Nc2 $3 2. Qd3 (2. Rxc2 Rxc2+ 3. Kxc2 (3. Qxc2 Bb4+ 4. Kc1 Qf1+ 5. Qd1 Rc8+ )Qe2+ 4. Nd2 Rc8+ $19 )(2. a3 Bb4+ $1 3. axb4 Nxa1 $19 )Qa5+ 3. Kd1 Nxa1 $19 *
+
+[Event "II c Saint Petersburg 84/396"]
+[White "Torbin, Kirill"]
+[Black "Yevseev, Denis"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Yevseev,D"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3r2k/3q1p1p/p1p2p1B/1p6/P1pPB1b1/2P3P1/7P/2Q2RK1 w - - 0 1"]
+
+1. Bf8 $3 (1. Qf4 $2 Qe6 2. d5 cxd5 3. Bxd5 Qb6+ 4. Kh1 Bh3 $1 $19 {Torbin -
+Yevseev} )Rxf8 (1... Rxe4 $2 2. Qh6 Rxf8 3. Qxf8# {#} )2. Qh6 f5 3. Qf6+ Kg8 4. Qg5+ $11 *
+
+[Event "I c Cuba 84c/15"]
+[White "Martinez Alpizar, Boris Alexei"]
+[Black "Fernandez, Alfredo"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Nogueiras Santiago,J"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3rk2/2n2p1Q/p4b1P/1ppPqBp1/2P5/8/PP1R2P1/2K2R2 w - - 0 1"]
+
+1. Bg6 $1 Re7 (1... fxg6 2. Qg7# {#} )2. d6 Rd7 3. Rdf2 $1 (3. dxc7 $2 Qe3 $132 )Ne8 4. Qh8+ $3 (4. Qh8+ Bxh8 5. Rxf7+ Rxf7 6. Rxf7+ Kg8 7. h7# {#} )1-0
+
+[Event "I c Pardubice 85/245"]
+[White "Haba, Petr"]
+[Black "Kristjansson, Stefan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Haba,P"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "7k/1p3p1p/8/1q1pPbBQ/p2n1p2/P7/1P3PPP/2rR1NK1 w - - 0 1"]
+
+1. e6 $3 (1. h3 {Haba - Kristjansson} )fxe6 (1... Rxd1 $4 2. Bf6+ Kg8 3. Qxf7# {#} )2. Bf6+ Kg8 3. Bxd4 $18 *
+
+[Event "I c Philadelphia (blitz) 85c/18"]
+[White "Akobian, Varuzhan"]
+[Black "Onischuk, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Akobian,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "5r1k/2p1q2p/bp1p1p1P/p2Pn1p1/4P3/P1Q5/1PB2R2/1K4R1 w - - 0 1"]
+
+1. Rxg5 $1 fxg5 2. Qxc7 $3 Nd7 (2... Rxf2 3. Qxe7 Rf1+ 4. Ka2 $18 )(2... Ng6 3. Qxe7 Nxe7 4. Rxf8+ Ng8 5. e5 $18 )3. Qxd7 $1 1-0
+
+[Event "I c Ukraine 86/(272)"]
+[White "Miroshnichenko, Evgenij"]
+[Black "Borovikov, Vladislav"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Magomedov,Ma"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r5k1/pp1Q2p1/1q2p2p/3p4/3n1n1B/5PN1/PP3P1b/3R1R1K w - - 0 1"]
+
+1. Bf6 $3 (1. Rxd4 Qxd4 2. Kxh2 g5 $13 {Miroshnichenko - Borovikov} )gxf6 $8 2. Rg1 $3 {[/\ Nf5]} Bxg1 (2... Kh8 3. Ne4 $18 )3. Rxg1 Kf8 (3... Kh8 4. Ne4 Rg8 5. Qh7+ {1 : 0 Todorovic - Kraai, Budapest 2003} )4. Nh5 $1 $18 *
+
+[Event "I c Espana 86/276*"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Rustemov, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Illescas Cordoba,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r2r1k2/4bppB/1qb1pn2/p3N3/2P2B1P/6R1/KP2QPP1/3R4 w - - 0 1"]
+
+1. Bh6 $1 Rxd1 (1... gxh6 2. Qh5 $1 Nxh5 3. Rg8# {#} )(1... Ne8 2. Qh5 $18 )2. Rxg7 $1 Ke8 3. Qxd1 $18 *
+
+[Event "I c Indonesia 86c/8"]
+[White "Firdaus, Maksum"]
+[Black "Hendra, Johan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Firdaus,M; Liem,K"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1r1r2k1/pnq2p2/1p2pPp1/1P1n4/1Bp2P1Q/7B/1P5P/2R2RK1 w - - 0 1"]
+
+1. f5 $3 exf5 (1... Nxb4 2. fxg6 fxg6 3. Bxe6+ Qf7 4. Qh6 $1 {/\ Qg7#} )2. Rxf5 $1 Nc5 (2... gxf5 3. Qg5+ $18 )(2... Nd6 3. Rh5 $1 $18 )(2... Nxb4 3. Qh6 $18 )3. Rh5 $1 gxh5 (3... Nxf6 4. Rh8+ Kg7 5. Qh6# {#} )4. Qg5+ (4. Qg5+ Kf8 5. Qg7+ Ke8 6. Qg8# {#} )1-0
+
+[Event "I c Kyiv 86c/15"]
+[White "Malakhatko, Vadim"]
+[Black "Timoscenko, Gennadij"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Timoscenko,G"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r2r2k1/pbq2pp1/5n1p/4b3/2P1p3/1NP5/PP2BPP1/R1B1QR1K b - - 0 1"]
+
+1... e3 $1 2. Bxe3 Qc6 3. Bf3 (3. Rg1 Qe4 $19 )(3. f3 $5 Nh5 4. Na5 Qg6 5. Nxb7 Ng3+ 6. Kg1 Re8 7. Rd1 (7. Nc5 Qh5 8. Bd3 Qh1+ 9. Kf2 Qh4 $19 10. Qb1 $140 Bc7 {/\ Nf5} )Qh5 8. Bd3 Qh1+ 9. Kf2 Qh4 10. Bc2 (10. Kg1 $2 Ne2+ $1 11. Qxe2 Bh2+ 12. Kh1 Bg3+ 13. Kg1 Qh2# {#} )(10. Rg1 Bf4 $19 )Bf4 11. Rd3 Nf5+ 12. Ke2 Qg5 $1 $19 )Qxf3 $1 (3... Qxf3 4. gxf3 Bxf3+ 5. Kg1 Ng4 {/\ Bh2#} )0-1
+
+[Event "I c Yongchuan 88/199"]
+[White "Ni, Hua"]
+[Black "Xu, Jun"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Ni,Hua"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r1b3k1/2q1brp1/3pp1p1/p7/1pnBP3/3Q3B/PPP1N3/1K1R3R w - - 0 1"]
+
+1. Bf5 $3 (1. Bg4 $2 e5 2. Qh3 Rf6 $17 )exf5 (1... gxf5 2. Qh3 Rf8 3. Qh7+ Kf7 4. Bxg7 Rg8 5. Qh5+ $1 Kxg7 6. Rdg1+ Kf8 7. Rxg8+ Kxg8 8. Qh8+ Kf7 9. Rh7+ Kg6 10. Qg7# {#} )(1... e5 2. Bxg6 Rf6 (2... exd4 3. Rh8+ $1 Kxh8 4. Bxf7 )3. Bh7+ Kf8 4. Bxe5 $1 Nxe5 5. Qd5 Bd8 6. Rdf1 $1 Nf3 7. Ka1 $145 $3 Rb8 (7... Ke7 8. Qxa8 Bb7 9. Qa7 Qb6 10. Qxb6 Bxb6 11. Ng3 )8. Qg8+ Ke7 9. Nd4 $3 Qc5 (9... Rf8 10. Qxg7+ Rf7 11. Qh8 Rf8 (11... Qc4 12. Bg8 $1 )12. Bg8 $1 )10. Bg6 $3 Kd7 (10... Rxg6 11. Rh8 $1 Bg4 12. Qe8+ Kf6 13. Nxf3 Bxf3 14. Rxf3+ Kg5 15. Rg3+ )11. Qxg7+ Be7 12. Rh7 Qe5 13. Nxf3 $18 {Markovic,Iv} )2. Qh3 (2. Qh3 Rf8 (2... Rf6 3. Qh8+ Kf7 4. Rh7 )3. Qh7+ Kf7 4. Bxg7 $1 Rd8 5. Nf4 Ke8 6. Qxg6+ Kd7 7. Qe6+ Kc6 8. Qxc4+ Kd7 9. Qb5+ Qc6 10. Qxf5+ Kc7 11. Nd5+ $18 )1-0
+
+[Event "I c Ljubljana 88c/14"]
+[White "Solak, Dragan"]
+[Black "Soln, Primoz"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Solak,D"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2kr3r/pp1n1p1p/2pbppb1/q7/2BP2PN/2P1BQ1P/PP3P2/2KR3R b - - 0 1"]
+
+1... Ne5 $3 (1... Ba3 $2 2. Bd2 Be7 3. Bb3 $14 {Solak - Soln} )2. Qe2 (2. dxe5 Qxc3+ $3 3. bxc3 Ba3# {#} )Nxc4 3. Qxc4 Be4 4. f3 Bd5 $19 *
+
+[Event "I c Deutschland 89/79"]
+[White "Nisipeanu, Liviu Dieter"]
+[Black "Chuchelov, Vladimir"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Nisipeanu,L.-D; Stoica,V"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "4r1k1/pbqr1pb1/1pn2p1p/8/3PN3/P1N1B3/BP2Q1PP/3R2K1 w - - 0 1"]
+
+1. Bxh6 $1 f5 (1... Rxe4 2. Nxe4 Nxd4 3. Qg4 Nf3+ 4. gxf3 Rxd1+ 5. Kg2 Qc2+ 6. Nf2 Qh7 7. Bxg7 $18 )2. Qh5 Rxe4 (2... fxe4 3. Qg6 $18 )3. Nxe4 Nxd4 (3... Bxh6 4. Nf6+ $18 )4. Nf6+ 1-0
+
+[Event "I c Cuba 91c/13"]
+[White "Gongora Reyes, Liuber"]
+[Black "Blanco Ronquillo, Humberto"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gongora Reyes,M"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "2r2br1/1q3kpp/p2pNn2/1p1P1PQ1/P1n5/8/1PPB2PP/R3R1K1 w - - 0 1"]
+
+1. Qg6+ $3 Ke7 (1... hxg6 2. Ng5# {#} )2. Qf7+ $3 1-0
+
+[Event "I c Russia (ch) 92/189"]
+[White "Svidler, Peter"]
+[Black "Korotylev, Alexey"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Svidler,P"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2b1rqk1/2r1b1p1/p3p1Pp/1p6/4BPN1/P1P2Q2/1P1R4/1K5R w - - 0 1"]
+
+1. Nxh6+ $1 gxh6 2. g7 $1 (2. Rdh2 $2 Bf6 3. Rxh6 Bg7 4. Rh7 Qf6 )Qxg7 (2... Qf6 3. Qh5 (3. Rdh2 )Bd7 4. Rxd7 $1 $18 )3. Rg2 Bf6 (3... Bg5 4. fxg5 hxg5 5. Qh5 $18 )4. Rxh6 $18 *
+
+[Event "I c England 93/277"]
+[White "Sutovsky, Emil"]
+[Black "Sokolov, Ivan N"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Sutovsky,E"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r2r4/2p1kp1p/pb3N1B/1p2P3/qP3R1P/2R5/3p1PP1/3Q2K1 w - - 0 1"]
+
+1. Nd5+ $1 Rxd5 2. Rxf7+ $1 Kd8 (2... Kxf7 3. Qf3+ Ke8 (3... Ke6 4. Qf6+ Kd7 5. Qf5+ )4. Qf8+ Kd7 5. Qf5+ Ke7 6. Bg5+ Ke8 7. Qe6+ Kf8 8. Bh6# {#} )3. Rf8+ Ke7 4. Bg5+ $1 (4. Bg5+ Kxf8 5. Qf3+ Ke8 (5... Kg8 6. Qxd5+ Kg7 7. Bh6+ $1 Kxh6 8. Qe6+ )6. Qh5+ Kd7 7. Qg4+ $18 )1-0
+
+[Event "I c Linares (open) 94c/6"]
+[White "Vila Gazquez, Javier"]
+[Black "Pogorelov, Ruslan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Pogorelov,R"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "8/1b1rbk2/1B2pp2/1NP1p3/6P1/1P1r2Pp/P4P2/R4RK1 b - - 0 1"]
+
+1... h2+ $1 2. Kxh2 Bf3 $1 3. Rfe1 (3. Rg1 Bxc5 $3 4. Bxc5 Kg6 5. Rg2 Rh7+ 6. Kg1 Rd8 $19 )(3. g5 $5 f5 4. Rg1 (4. Rac1 Rd8 $1 5. Bxd8 Rxd8 6. Rc4 e4 $19 )(4. g4 f4 (4... Bxg5 $5 5. c6 $140 Bf4+ 6. Kg1 Rd8 $1 )5. Rg1 Kg6 6. Rg2 Bxc5 7. Bxc5 Rh7+ 8. Kg1 Rd8 $19 {/\ Rdh8} )Kg6 $1 (4... Bxc5 $2 5. Bxc5 Kg6 6. Bf8 Kxg5 7. Rg2 Rh7+ 8. Kg1 Rd8 9. Rh2 $3 $18 Rxh2 $140 10. Be7+ Kg4 11. Kxh2 )5. c6 (5. Rg2 Bxc5 6. Bxc5 Rh7+ 7. Kg1 Rd8 )Bxc6 6. Na7 Bf3 7. Rg2 Bc5 8. Bxc5 Rh7+ 9. Kg1 Rd8 10. Nc6 Bxc6 11. f4 Bxg2 12. Kxg2 Rd2+ 13. Bf2 Rc7 $19 )Rd8 $1 4. Bxd8 Rxd8 0-1
+
+[Event "III c Chelyabinsk 95c/2"]
+[White "Somkin, Evgeni"]
+[Black "Vinogradov, Dmitrij"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Somkin,E"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3kb1r/p1B2ppp/P1p1p1n1/1p6/N7/8/1PP2PPP/R2R2K1 w - - 0 1"]
+
+1. Nb6 $1 axb6 2. Rd8+ $3 Rxd8 3. Bxd8 Bd6 (3... Kxd8 4. a7 $18 )4. a7 1-0
+
+[Event "III c Gibraltar 96/203*"]
+[White "Short, Nigel D"]
+[Black "Zhukova, Natalia"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Komarov,Di"]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r1b2r1k/4qp2/p1n1p2P/8/5RQ1/2bBp3/1PP3PP/5RK1 w - - 0 1"]
+
+1. Rf6 $3 Bxf6 2. Qe4 $18 *
+
+[Event "III c Cuba 96/212*"]
+[White "Alvarez Pedraza, Aramis"]
+[Black "Gonzalez Perez, Arian"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Nogueiras Santiago,J"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r1b1k1r1/1p2qp1p/2n1pQpP/p3P3/2pPN3/P1P4R/2P2PP1/R3K3 w Qq - 0 1"]
+
+1. Qg7 $3 Rf8 2. Nf6+ Kd8 3. Nxh7 $18 *
+
+[Event "III c Amsterdam 97/1"]
+[White "Beliavsky, Alexander G"]
+[Black "Smeets, Jan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Beliavsky,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "1r6/p6p/R1nrkpp1/2pRp3/2P1P2N/1n4P1/1P3PBP/6K1 w - - 0 1"]
+
+1. Nf5 $1 (1. Nf5 gxf5 2. exf5+ Ke7 3. Rxd6 Kxd6 4. Rxc6+ )1-0
+
+[Event "I c Pardubice 97c/8"]
+[White "Zubarev, Alexander2"]
+[Black "Lechtynsky, Jiri"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Zubarev,Alexa"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r3rb2/1bqn1k1p/p2p1pp1/1pnPpN2/P1p1P3/2P3RP/1PB2PPN/R1BQ2K1 w - - 0 1"]
+
+1. Qh5 $3 gxh5 (1... Kg8 2. Rxg6+ $1 hxg6 3. Qxg6+ Kh8 4. Qh5+ Kg8 5. Ng4 Bg7 (5... Ne6 6. dxe6 Rxe6 7. Qg6+ Kh8 8. Ngh6 )6. Ngh6+ Kh8 7. Nf7+ Kg8 8. Qg6 $18 )2. Bd1 $3 Bxd5 (2... Bg7 3. Rxg7+ Kf8 4. Bh6 Re7 5. Bxh5 Rxg7 6. Bxg7+ Kg8 7. Ng4 h6 8. Bg6 {/\ Ngh6#} )3. exd5 1-0
+
+[Event "II c Port Erin 98c/7"]
+[White "Shabalov, Alexander"]
+[Black "Areshchenko, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perun,S"]
+[Result "1/2-1/2"]
+[Date ""]
+[PlyCount "8"]
+[Setup "1"]
+[FEN "r1Q2b1r/qp1nkpp1/4p3/1pN1n1p1/3N4/3R4/2P3PP/5RK1 w - - 0 1"]
+
+1. Nf5+ $1 exf5 (1... Kf6 $4 2. Ne7+ (2. Nh4+ $18 )Kxe7 3. Rxd7+ Nxd7 4. Qxd7# {#} )2. Rxd7+ $1 Kf6 (2... Nxd7 $4 3. Qxd7+ Kf6 4. Qxf5+ Ke7 5. Qd7# {#} )3. Rxf7+ $1 Kg6 (3... Kxf7 $4 4. Qe6# {#} )4. Qxf5+ Kh6 1/2-1/2
+
+[Event "I c Russia 98c/16"]
+[White "Najer, Evgeniy"]
+[Black "Kornev, Alexei"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perun,S"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "2kr3r/pp1n2b1/2p3R1/8/4P1B1/6B1/Pqp3PP/1R1Q3K w - - 0 1"]
+
+1. Rxc6+ $3 {[1 : 0 Najer - Kornev]} bxc6 2. Qxc2 $1 Qxc2 3. Rb8# {#} *
+
+[Event "I c Deutschland 99c/3"]
+[White "Henrichs, Thomas"]
+[Black "Prusikin, Michael"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Prusikin,M"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2q1r1k1/p4pp1/1p1r1n2/2pPn1p1/2P1p3/P1B1P2P/BQ3PPK/3R1R2 b - - 0 1"]
+
+1... Nfg4+ $3 (1... Qf5 $2 2. f3 $1 exf3 3. Bb1 Ne4 4. Bxe5 Qxe5+ 5. Qxe5 Rxe5 6. gxf3 Nc3 7. Rd3 Nxb1 8. Rxb1 $11 )2. hxg4 (2. Kg3 Rh6 3. d6 f5 4. d7 f4+ 5. exf4 gxf4+ 6. Kxf4 Rf8+ 7. Kg3 Qd8 $19 )(2. Kh1 Nf3 (2... Rh6 3. d6 )3. Bxg7 Nge5 4. Bb1 Kxg7 (4... Qf5 $19 )5. Bxe4 Rf6 $19 )(2. Kg1 Nf3+ $1 (2... Rh6 3. d6 $1 Qe6 )3. gxf3 Nh2 $3 (3... exf3 4. Bb1 Ne5 5. Qc2 Qxh3 6. Qh7+ Qxh7 7. Bxh7+ Kxh7 8. Bxe5 Rxe5 9. Kh2 Re4 $19 )4. fxe4 (4. Kxh2 Rh6 $19 )Qxh3 5. f3 Nxf3+ 6. Rxf3 Qxf3 7. Rf1 Qxe3+ 8. Qf2 Qxc3 9. Qxf7+ Kh7 $19 )Rh6+ 3. Kg1 Nf3+ 4. gxf3 exf3 0-1
+
+[Event "I c Avellaneda 100c/1"]
+[White "Flores, Diego"]
+[Black "Orsini, Antonio"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "De Dovitiis,A"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1rbq1rk1/4p2p/3pP2Q/p1pP1p2/Pnn5/2N4P/4NPB1/R4RK1 w - - 0 1"]
+
+1. Ne4 $3 Nxd5 (1... fxe4 2. Bxe4 $18 )(1... Qe8 2. Nf4 $18 )2. Ng5 Nf6 3. Ng3 1-0
+
+[Event "I c Oak Brook 100c/3"]
+[White "Ehlvest, Jaan"]
+[Black "Shulman, Yuri"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "5rbk/1p4q1/3N2np/1PP3p1/3p4/8/2RQB1PP/r4RK1 b - - 0 1"]
+
+1... d3 $1 {[0 : 1 Ehlvest - Shulman]} 2. Rxa1 (2. Bxd3 Qd4+ $19 )(2. Qxd3 Nf4 3. Nf5 Qe5 $19 )Qd4+ 3. Kh1 Qxa1+ 4. Rc1 dxe2 $19 *
+
+[Event "III c Camaguey 100c/16"]
+[White "Perez Quinones, Angel"]
+[Black "Keipo, Guillermo"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perez Quinones,A; Mena Crespo,C"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3r2k1/pp1r1p1p/2b1pqp1/4R3/2PP4/PB2Q2P/5PP1/4R1K1 w - - 0 1"]
+
+1. d5 $1 exd5 2. cxd5 Kg7 (2... Bb5 3. Qc5 Qb6 4. Re8+ Rxe8 (4... Kg7 5. Qf8+ Kf6 6. R1e6+ $18 )5. Rxe8+ Kg7 6. Qf8+ Kf6 7. Re6+ $18 )(2... Bxd5 3. Qh6 Be6 4. Rxe6 fxe6 5. Rxe6 Qf7 6. Rxg6+ hxg6 7. Qxg6+ Kf8 8. Bxf7 Rxf7 9. Qh6+ Ke8 (9... Rg7 10. Qf6+ $18 )(9... Kg8 10. Qg5+ $18 )10. Qe3+ Re7 11. Qxa7 $18 )3. Qc5 $1 1-0
+
+[Event "I c Khanty-Mansiysk (m/1) 101/196"]
+[White "Macieja, Bartlomiej"]
+[Black "Laznicka, Viktor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Macieja,B"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3rk2r/ppQ1bpp1/4pn1p/8/q2N3B/8/PPP2PPP/2KR3R w k - 0 1"]
+
+1. Nf5 $1 Rd7 (1... exf5 2. Rxd8+ Bxd8 3. Re1+ $18 )2. Qc8+ Rd8 3. Nxg7+ 1-0
+
+[Event "II c Moscow 101/291"]
+[White "Gelfand, Boris"]
+[Black "Kramnik, Vladimir"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gelfand,B"]
+[Result "1/2-1/2"]
+[Date ""]
+[PlyCount "4"]
+[Setup "1"]
+[FEN "5rk1/R3Qpp1/2p3p1/1p1rp3/1R1Pp2P/B2qP1P1/5P2/6K1 b - - 0 1"]
+
+1... c5 $3 (1... exd4 2. Rxd4 )(1... Qd1+ 2. Kh2 Qf3 3. Rb2 )2. Rb2 (2. dxc5 $4 Qd1+ 3. Kh2 Qf3 4. Rb2 Rd1 $19 )b4 3. Bxb4 (3. Bxb4 cxb4 4. Rxb4 (4. Qxb4 Qd1+ 5. Kh2 Rfd8 )Qd1+ 5. Kg2 (5. Kh2 Rdd8 6. Qxe5 (6. dxe5 $2 Rd2 )Qd2 $11 )Qf3+ 6. Kg1 Rc8 $5 7. Rc7 $11 )(3. dxe5 Qd1+ 4. Kh2 Qf3 5. Bxb4 (5. e6 $145 Rd1 6. Qxf8+ Kxf8 7. Rxf7+ Qxf7 8. exf7 bxa3 9. Ra2 Rd3 10. Rc2 Rd7 $19 )Rd1 6. Be1 Rxe1 7. Qxf8+ Kh7 $1 $19 )1/2-1/2
+
+[Event "I c Kemer 101/389"]
+[White "Haba, Petr"]
+[Black "Morozevich, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Haba,P"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2bqk2r/1r1n1ppp/p3p3/1pbNP3/2n2B2/5NP1/P1Q2PBP/3RR1K1 w k - 0 1"]
+
+1. Ng5 $1 Ra7 (1... h6 2. Nxe6 $1 (2. Nf6+ gxf6 3. Nxe6 Bxf2+ $1 $13 )fxe6 3. Qg6+ Kf8 4. Qxe6 Qe8 5. Qf5+ Nf6 $8 (5... Kg8 $6 6. Ne7+ $1 $18 )6. Nxf6 Bxf5 7. Nxe8 Re7 8. Nc7 $1 $16 )(1... Qa5 2. Nxh7 Qa4 3. Qb1 $16 )2. Nxh7 $1 Qa5 3. Ng5 Qa4 (3... Ndb6 $6 4. Nf6+ $3 (4. Ne4 $2 Nxd5 5. Nxc5 Nxf4 6. gxf4 $13 {Haba,P - Morozevich,A} )gxf6 5. exf6 {(/\ Ne6)} Na4 (5... Bd4 6. Qf5 $1 $18 )(5... Bd7 6. Nxe6 $1 $18 )6. Bc6+ Kf8 (6... Bd7 7. Rxe6+ $1 fxe6 8. Qg6+ Kd8 9. Qg7 $18 )7. Qf5 $3 {/\ Nh7+-} )4. Qe2 $16 *
+
+[Event "I c Holguin 102/104"]
+[White "Borges Feria, Yasel"]
+[Black "Alvarez Pedraza, Aramis"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Gonzalez Vidal,Y"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "3q4/b4kp1/p1rP1ppr/1p2p3/4N1Q1/6R1/PP3PPP/3R2K1 w - - 0 1"]
+
+1. Ng5+ $3 fxg5 2. Qf3+ Qf6 3. Qd5+ $1 Kf8 4. Rf3 1-0
+
+[Event "I c Alushta 102/209"]
+[White "Kovalev, Andrei"]
+[Black "Petrosian, Davit Gevorgi"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kovalev,An"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1rb2rk1/3n1ppp/8/1p1Nqp2/1P1Q4/7R/2P3P1/2KR1B2 w - - 0 1"]
+
+1. Bxb5 $1 Qe6 (1... Rxb5 2. Qxe5 Nxe5 3. Ne7+ Kh8 4. Rxh7+ Kxh7 5. Rh1# {#} )(1... Re8 2. Qh4 h6 3. Re3 $18 )2. Rdh1 $1 (2. Bc4 Ne5 (2... Nf6 3. Qh4 h6 4. Re3 $18 )3. Re3 Nc6 4. Qc5 Qh6 5. Qxc6 Be6 6. Qd6 $1 $18 (6. Kb2 Rxb4+ $1 (6... Qg5 7. Qc5 Kh8 8. Bb3 Rfd8 9. Qc3 Rbc8 10. Qe5 Qh4 11. Rd4 Qg5 12. Rg3 f6 13. Qe1 {1 : 0 Kovalev,An - Petrosian,D.G} )7. Rb3 Rxb3+ 8. Bxb3 $18 ))Rxb5 (2... h6 3. Re3 )3. Rxh7 f6 4. Qh4 $1 $18 *
+
+[Event "I c Russia 102/(216)"]
+[White "Solovjova, Valentina"]
+[Black "Martynova, Anastasia"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Solovjov,S"]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r5r1/1p1k1p1p/1Qb2Bp1/p1PpPn2/8/q4N2/5PPP/2R2RK1 w - - 0 1"]
+
+1. e6+ $3 Kxe6 2. Qc7 $1 $18 *
+
+[Event "I cSan Cristobal de La Laguna 102/(323)"]
+[White "Malakhatko, Vadim"]
+[Black "Perez Felipe, Marcos Adrian"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "r5r1/p4pP1/b2Qp3/6k1/2p5/2q5/P4PP1/1K1R1B1R w - - 0 1"]
+
+1. Rd5+ $1 Kg6 2. Bd3+ $1 1-0
+
+[Event "I c Nalchik (m/1) 103c/3"]
+[White "Mongontuul, Bathuyag"]
+[Black "Hou, Yifan"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Velickovic,Sa"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2r3k1/1b2qp2/5bpP/8/4pBNP/pPr5/P1P4R/2K1Q1R1 b - - 0 1"]
+
+1... Rxb3 $1 2. axb3 (2. Bd2 Rxc2+ $1 3. Kxc2 Qc5+ 4. Kxb3 Bd5+ 5. Ka4 Qc2+ 6. Kxa3 Qb2+ 7. Ka4 Bc6+ 8. Ka5 Qb5# {#} )(2. Bg5 Bxg5+ 3. hxg5 Qxg5+ 4. Rd2 (4. Qd2 Rxc2+ 5. Kxc2 Rb2+ $19 )Rxc2+ 5. Kxc2 Rb2+ 6. Kd1 Rb1+ $19 )(2. Rg3 Bb2+ 3. Kd1 Bc3 (3... Rf3 $19 )4. cxb3 Bxe1 5. Kxe1 e3 $19 )a2 3. Qa5 a1=Q+ 4. Qxa1 Bxa1 $19 *
+
+[Event "I c Polska 103c/4"]
+[White "Stysiak, Szymon"]
+[Black "Dobrowolski, Piotr"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "*"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "5rk1/1p4b1/p2N4/P1pP4/7q/4r3/1PQ3P1/1R3RK1 b - - 0 1"]
+
+1... Re1 $3 $19 *
+
+[Event "II c Bonn (m/9) 104/108"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Anand,V"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1b3r1k/8/1Q2p2p/p3qp2/8/1PrB2P1/7P/3R1R1K w - - 0 1"]
+
+1. Bxf5 $1 (1. Qb7 $2 Bc7 $1 (1... Qc7 2. Qxc7 Bxc7 3. Bc4 $132 {Anand,V -
+Kramnik,V} )(1... Rg8 $5 )2. Qb5 Rd8 (2... Qxb5 3. Bxb5 Rxb3 4. Bc4 Rb6 5. Rd7 )3. Qxe5+ Bxe5 4. Bc4 Rxd1 5. Rxd1 a4 6. Bxe6 a3 7. Rd2 Kg7 8. b4 )exf5 (1... Rxf5 $2 2. Rxf5 exf5 3. Qxh6+ Kg8 4. Qg5+ $18 )2. Qxh6+ Kg8 3. Qg5+ (3. Qg6+ Qg7 4. Qe6+ Qf7 5. Qxf7+ Rxf7 6. Rd8+ Rf8 7. Rxf8+ Kxf8 8. Rxf5+ $11 )Qg7 4. Rxf5 $1 $11 *
+
+[Event "I c Internet 104c/2"]
+[White "Kudischewitsch, David"]
+[Black "Ritschi"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kantsler,B"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "6rk/p4Rbb/1p6/3P2NQ/1P6/3q3P/6P1/7K w - - 0 1"]
+
+1. Rf5 $3 Qxf5 (1... Qb1+ 2. Kh2 Be5+ 3. Rxe5 $18 )2. Qxh7+ $3 Qxh7 3. Nf7# {#} 1-0
+
+[Event "I c Israel (ch) 104c/4"]
+[White "Rodshtein, Maxim"]
+[Black "Caspi, Israel"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "3R4/p1r3kp/6r1/2p1pRQ1/4P1p1/b2N2Pq/7P/6K1 w - - 0 1"]
+
+1. Rg8+ $1 {[1 : 0 Rodshtein - Caspi]} Kxg8 2. Qd8+ Kg7 3. Qf8# {#} *
+
+[Event "I c Wijk aan Zee 105/53"]
+[White "Karjakin, Sergey"]
+[Black "Morozevich, Alexander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "4nrk1/1b3rpp/p1q2b2/3p3P/1pN5/1P1BBP1R/P1P3Q1/1K4R1 w - - 0 1"]
+
+1. h6 $1 (1. h6 g6 (1... dxc4 2. Bxh7+ Kh8 3. Be4 $18 )2. Bxg6 hxg6 3. Qxg6+ Kh8 4. Qg7+ $1 $18 )1-0
+
+[Event "I c Russia 105/77"]
+[White "Shirov, Alexei"]
+[Black "Wang, Hao"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "1-0"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "r1b2rk1/1p3pp1/p1nR3p/4n2q/1PB1NQ1B/8/6PP/5RK1 w - - 0 1"]
+
+1. Rxh6 $3 (1. Rxh6 Qxh6 (1... Qg4 2. Nf6+ gxf6 3. Rh8+ Kxh8 4. Qh6+ Kg8 5. Bxf6 $18 )2. Nf6+ Kh8 (2... Qxf6 3. Bxf6 gxf6 4. Qxf6 $18 )3. Bg5 $18 )1-0
+
+[Event "I c Oesterreich 105c/2"]
+[White "Fuchs, Georg"]
+[Black "Deglmann, Ludwig"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Prusikin,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "r3k2r/1bq1ppb1/p2p1np1/1p6/3NP2p/3QBPPB/PPP4P/2KR2R1 w kq - 0 1"]
+
+1. e5 $1 dxe5 2. Ne6 $1 Qa5 (2... fxe6 3. Qxg6+ Kf8 4. Bxe6 $18 )3. b4 $1 (3. Nxg7+ Kf8 4. Ne6+ $1 $18 )e4 (3... Qxb4 4. Qd8+ Rxd8 5. Rxd8# {#} )4. fxe4 $18 *
+
+[Event "I c Belarus (ch) 105c/3"]
+[White "Zhigalko, Sergei"]
+[Black "Maiorov, Nikita"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1r1r4/k1p4p/p1Bb2p1/PP1P1p2/5n2/2N1R2P/5P2/4R1K1 w - - 0 1"]
+
+1. b6+ $1 {[1 : 0 Zhigalko - Maiorov]} cxb6 2. Re7+ Bxe7 3. Rxe7+ $18 *
+
+[Event "III c Schweiz 105c/16"]
+[White "Duport, Nicolas2"]
+[Black "Burnier, David"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Prusikin,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "1r2r1k1/2p2pp1/1bn1bq1p/1p1np3/8/1BPP1NNP/1PQ2PP1/R1B1R1K1 w - - 0 1"]
+
+1. d4 $1 (1. Nh5 $2 Qg6 2. Nxe5 Nxe5 3. Rxe5 Bxh3 4. Rxe8+ Rxe8 5. Bxd5 Re1+ 6. Kh2 Qxh5 7. gxh3 Qxd5 8. Qd2 Rh1+ 9. Kg3 Rg1+ 10. Kh4 g6 {0 : 1 Duport -
+Burnier} )exd4 2. Nh5 Qd8 (2... Qg6 3. Qxg6 fxg6 4. Rxe6 $18 )3. Bxh6 $3 gxh6 4. Bxd5 $18 *
+
+[Event "I c Budva 106/(130)"]
+[White "Arsovic, Goran"]
+[Black "Maevsky, Nikolay"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Komarov,Di"]
+[Result "*"]
+[Date ""]
+[PlyCount "1"]
+[Setup "1"]
+[FEN "rn2k3/pb4r1/2p5/1p2Np2/P1pP4/2q3P1/4B1RP/R2Q1K2 w q - 0 1"]
+
+1. Bxc4 $1 $18 *
+
+[Event "I c Amsterdam 106/(170)"]
+[White "Van Wely, Loek"]
+[Black "Stellwagen, Daniel"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "6k1/pp2n3/3N1bpp/1PP1p3/4P3/5q2/P2KBr2/R1BQ4 b - - 0 1"]
+
+1... Nd5 $3 2. exd5 e4 $19 *
+
+[Event "I c Camaguey 109c/2"]
+[White "Mena Crespo, Carlos E"]
+[Black "Cantillo Barroso, Rafael"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perez Quinones,A; Mena Crespo,C"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "4r1k1/p6p/3p2p1/1pnP4/3KP3/P1NN1Bn1/1PQB4/3R1q2 b - - 0 1"]
+
+1... Nf5+ $1 (1... Qxd3+ 2. Qxd3 Nf5+ 3. exf5 {Ü 1...Nf5} )2. exf5 Qxd3+ $1 3. Qxd3 Nb3# {#} 0-1
+
+[Event "I c France 109c/3"]
+[White "Eljanov, Pavel"]
+[Black "Delchev, Aleksander"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Perun,S"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "6rk/p1pn1p1p/1p1p1qrB/3PpN1R/4P1p1/PnP5/6PP/4QRK1 w - - 0 1"]
+
+1. Bg5 $1 {[1 : 0 Eljanov - Delchev]} Rxg5 (1... Qxg5 2. Rxg5 Rxg5 3. Nh6 $18 )2. Rxh7+ $1 Kxh7 3. Qh4+ Kg6 4. Qh6# {#} *
+
+[Event "I c Kobenhavn (m/5-blitz) 109c/4"]
+[White "Nielsen, Per"]
+[Black "Svidler, Peter"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "RR"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2k4r/1p1b1p2/p2q3r/2pP1p2/2P1pNn1/P1Q1P1P1/5PB1/1R1R2K1 b - - 0 1"]
+
+1... Rh1+ $1 2. Bxh1 Rxh1+ 3. Kg2 (3. Kxh1 Qh6+ 4. Kg1 Qh2+ 5. Kf1 Qxf2# {#} )Rh2+ 4. Kg1 Qh6 0-1
+
+[Event "III c Augsburg 110c/7"]
+[White "Wegerer, Fred"]
+[Black "Skembris, Spyridon"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Prusikin,M"]
+[Result "*"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "3q1bk1/r1p2rpp/1p2bp2/1P1n1n2/p1NPN3/P5P1/2Q2PBP/1RBR2K1 w - - 0 1"]
+
+1. Ne5 $1 (1. Bb2 $2 Qd7 $11 {Wegerer - Skembris} )fxe5 2. Ng5 Qc8 3. dxe5 $1 Nde7 4. g4 $1 $18 *
+
+[Event "I c Moscow 111/139"]
+[White "Kotsur, Pavel"]
+[Black "Volokitin, Andrei"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Volokitin,A"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1k6/pbp3Np/1n1r2p1/2p1Q3/2P2P2/1PB5/PK4PP/3q1B1R b - - 0 1"]
+
+1... Na4+ $1 2. Ka3 (2. bxa4 Rb6+ 3. Ka3 Bc6 $19 )Qc1+ 3. Bb2 (3. Kxa4 Bc6+ 4. Ka5 Qa3# {#} )Nxb2 0-1
+
+[Event "II c New Delhi 113/162"]
+[White "Paragua, Mark"]
+[Black "Debashis, Das"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Kasparov,G"]
+[Result "*"]
+[Date ""]
+[PlyCount "6"]
+[Setup "1"]
+[FEN "r5k1/pp1qrpp1/1npb4/5bNB/2pP3Q/7P/PP1B1P2/2KR2R1 w - - 0 1"]
+
+1. Nh7 $1 Bxh7 (1... Nd5 2. Rxg7+ (2. Nf6+ Nxf6 3. Qxf6 Bg6 4. Bxg6 fxg6 5. Rxg6 Bh2 $13 )Kxg7 3. Rg1+ Bg6 4. Bxg6 fxg6 5. Qh6+ Kg8 6. Rxg6+ Rg7 7. Ng5 Rxg6 8. Qxg6+ Qg7 9. Qe6+ Kh8 10. Nf7+ $11 )2. Rxg7+ Kxg7 3. Bh6+ Kxh6 (3... Kxh6 4. Rg1 Qg4 $3 5. Bxg4+ (5. Rxg4 $4 Re1+ 6. Kd2 Bb4# {#} )(5. Qxg4 $4 Rg8 $19 )Kg7 6. Bf5+ Bg6 7. Bxg6 fxg6 8. Qg4 Kh8 9. Qh4+ (9. Qxg6 Bf4+ 10. Kc2 Rf8 11. Rg4 Rh7 12. Rxf4 Rxf4 13. Qe8+ Kg7 $11 )Kg7 $11 )(3... Kg8 4. Rg1+ Bg6 5. Bxg6 Re1+ (5... fxg6 6. Rxg6+ Rg7 7. Rxg7+ Qxg7 8. Bxg7 Kxg7 9. Qg5+ $11 )(5... Bf4+ 6. Qxf4 fxg6 7. Qf6 Rae8 8. Qxg6+ Kh8 9. Qf6+ $11 )6. Rxe1 fxg6 7. Qf6 Qh7 8. Qe6+ Kh8 9. Qf6+ $11 )*
+
+[Event "I c Schweiz 114/199"]
+[White "Kaenel, Hansjuerg"]
+[Black "Nueesch, Gerard"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Prusikin,M"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "6k1/5pb1/p2p2p1/P2Pn3/2P1P2q/Q2p4/3B1NBP/1r3NK1 b - - 0 1"]
+
+1... Nf3+ $1 2. Bxf3 Bd4 0-1
+
+[Event "I c Istanbul (ol) 115/131"]
+[White "Milos, Gilberto"]
+[Black "Carlsson, Pontus"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1k4r1/pp3p2/2p2n1b/8/P5nP/2NR1Q2/1P2PPBq/1R3K2 b - - 0 1"]
+
+1... Qh1+ 2. Bxh1 Nh2+ 3. Ke1 Rg1# {#} 0-1
+
+[Event "III c Montcada i Reixac 118/193"]
+[White "Flores Rios, Mauricio"]
+[Black "Pancevski, Filip"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Flores Rios,Mauricio"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "r2qr1k1/2n3bp/p1p1bp2/1p4p1/P1pP3N/2N1B2P/1P3QB1/3R1RK1 w - - 0 1"]
+
+1. d5 $1 (1. Nf3 $2 Nd5 $13 )Nxd5 (1... cxd5 2. axb5 $1 (2. Nf3 $5 $16 )axb5 (2... gxh4 3. b6 $18 )3. Bb6 gxh4 4. Nxb5 $18 )(1... Bxd5 2. Nf5 $18 )2. Nxd5 Bxd5 (2... cxd5 3. Nf5 Bf8 4. Nd4 Bf7 5. Bxg5 $18 )3. Nf5 $18 *
+
+[Event "III c Rhodes 119/85"]
+[White "Rublevsky, Sergei"]
+[Black "Sigurjonsson, Stefan Thor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Rublevsky,Sergei"]
+[Result "*"]
+[Date ""]
+[PlyCount "5"]
+[Setup "1"]
+[FEN "1rb2rk1/3nRppp/2pq4/p1Np4/3Q4/1P1B4/P1P2PPP/R5K1 w - - 0 1"]
+
+1. Ne6 $1 Nf6 2. Qc5 $1 (2. Bxh7+ $4 Kh8 $1 (2... Kxh7 $2 3. Nxf8+ Kg8 4. Qa7 Bf5 5. Rxf7 Rxf8 6. Rxg7+ Kh8 7. Rg5 $18 )3. Nxf8 Qxe7 $17 )Qe5 (2... Qxc5 3. Nxc5 $16 )3. Nd4 $16 *
+
+[Event "I c Italia 120/11"]
+[White "David, Alberto"]
+[Black "Vachier Lagrave, Maxime"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tadic,Branko"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "7"]
+[Setup "1"]
+[FEN "2b1r1k1/1p3pB1/2pp2p1/1P6/2P1p1n1/6P1/2NPPPBq/QR3K2 b - - 0 1"]
+
+1... Ne5 $1 2. g4 (2. Bxe5 Bh3 $1 $19 )(2. Ne3 Bh3 3. Ke1 Bxg2 $19 )Nf3 $1 3. exf3 exf3 4. Bxf3 Bxg4 $1 (4... Bxg4 5. Bxg4 (5. Ne1 Bh3+ 6. Bg2 Qh1# {#} )Qh1# {#} )0-1
+
+[Event "I c Gibraltar 120c/6"]
+[White "Pardo Simon, David"]
+[Black "Kamsky, Gata"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tadic,Branko"]
+[Result "0-1"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "1k1r1rb1/1pp3b1/p1n4p/3pq1p1/6P1/P1P1BP1P/1P1QB3/1K1RRN2 b - - 0 1"]
+
+1... d4 $1 2. cxd4 (2. Bxd4 Nxd4 3. cxd4 Qd5 4. Kc1 Qa2 $19 )Qd5 (2... Qd5 3. b4 Bh7+ 4. Kb2 Nxd4 5. Bxd4 Bxd4+ 6. Qxd4 Qxd4+ 7. Rxd4 Rxd4 $19 )0-1
+
+[Event "I c Tromso (ol) 121c/2"]
+[White "Guevara, Carlos"]
+[Black "Kovalenko, Igor"]
+[Site "Cleanchess.com Basic Clearance"]
+[Round ""]
+[Annotator "Tadic,Branko"]
+[Result "*"]
+[Date ""]
+[PlyCount "3"]
+[Setup "1"]
+[FEN "6k1/1q3pp1/4p2p/B2nQ3/2r5/Pr4PP/5P2/2R1R1K1 b - - 0 1"]
+
+1... Nf4 $1 2. gxf4 Rxh3 $19 *
+
